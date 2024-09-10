@@ -1,0 +1,6 @@
+train: ./VOC2007/train/images
+val: ./VOC2007/valid/images
+test: ./VOC2007/test/images
+
+nc: 4
+names: ['black', 'blue', 'grey', 'red']

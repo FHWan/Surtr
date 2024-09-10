@@ -1,0 +1,6 @@
+<!--Ctrl vehicle with keyboard(arrow key)-->
+<launch>		
+        <node name="turtle_teleop_key" pkg="turtlesim" type="turtle_teleop_key" output="screen" />
+	<include file="$(find xpkg_comm)/launch/xnode_comm.launch" />   	
+ 	<include file="$(find xpkg_vehicle)/launch/xnode_vehicle.launch" />
+</launch>

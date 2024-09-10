@@ -1,0 +1,8 @@
+prefix=/home/eaibot/robocom_ws/install
+
+Name: laser_scan_matcher
+Description: Description of laser_scan_matcher
+Version: 0.3.2
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -llaser_scan_matcher
+Requires: roscpp nodelet sensor_msgs tf pcl_ros pcl_conversions geometry_msgs nav_msgs

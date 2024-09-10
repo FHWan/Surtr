@@ -1,0 +1,6 @@
+<!--Ctrl vehicle with joystick(only support usb joystick) -->
+<launch>		
+	<include file="$(find xpkg_comm)/launch/xnode_comm.launch" />
+    	<include file="$(find xpkg_joystick)/launch/xnode_joystick.launch" /> 
+ 	<include file="$(find xpkg_vehicle)/launch/xnode_vehicle.launch" />
+</launch>

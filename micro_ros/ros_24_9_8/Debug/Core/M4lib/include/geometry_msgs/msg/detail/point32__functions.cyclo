@@ -1,0 +1,12 @@
+../Core/M4lib/include/geometry_msgs/msg/detail/point32__functions.c:15:1:geometry_msgs__msg__Point32__init	2
+../Core/M4lib/include/geometry_msgs/msg/detail/point32__functions.c:27:1:geometry_msgs__msg__Point32__fini	1
+../Core/M4lib/include/geometry_msgs/msg/detail/point32__functions.c:38:1:geometry_msgs__msg__Point32__are_equal	6
+../Core/M4lib/include/geometry_msgs/msg/detail/point32__functions.c:59:1:geometry_msgs__msg__Point32__copy	3
+../Core/M4lib/include/geometry_msgs/msg/detail/point32__functions.c:76:1:geometry_msgs__msg__Point32__create	3
+../Core/M4lib/include/geometry_msgs/msg/detail/point32__functions.c:93:1:geometry_msgs__msg__Point32__destroy	2
+../Core/M4lib/include/geometry_msgs/msg/detail/point32__functions.c:104:1:geometry_msgs__msg__Point32__Sequence__init	8
+../Core/M4lib/include/geometry_msgs/msg/detail/point32__functions.c:141:1:geometry_msgs__msg__Point32__Sequence__fini	4
+../Core/M4lib/include/geometry_msgs/msg/detail/point32__functions.c:167:1:geometry_msgs__msg__Point32__Sequence__create	3
+../Core/M4lib/include/geometry_msgs/msg/detail/point32__functions.c:183:1:geometry_msgs__msg__Point32__Sequence__destroy	2
+../Core/M4lib/include/geometry_msgs/msg/detail/point32__functions.c:193:1:geometry_msgs__msg__Point32__Sequence__are_equal	6
+../Core/M4lib/include/geometry_msgs/msg/detail/point32__functions.c:210:1:geometry_msgs__msg__Point32__Sequence__copy	10

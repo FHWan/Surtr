@@ -1,0 +1,8 @@
+prefix=/home/eaibot/robocom_ws/devel
+
+Name: xpkg_bringup
+Description: Description of xpkg_bringup
+Version: 0.1.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

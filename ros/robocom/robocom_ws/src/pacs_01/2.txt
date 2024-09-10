@@ -1,0 +1,4 @@
+roslaunch pacs_01 gazebo.launch 
+roslaunch pacs_01 display_xacro.launch 
+roslaunch pacs_01 gmapping_slam.launch 
+roslaunch pacs_01 run_robot_teleop.launch

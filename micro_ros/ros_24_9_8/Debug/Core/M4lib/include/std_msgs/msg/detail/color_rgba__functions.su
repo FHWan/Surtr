@@ -1,0 +1,12 @@
+../Core/M4lib/include/std_msgs/msg/detail/color_rgba__functions.c:15:1:std_msgs__msg__ColorRGBA__init	16	static
+../Core/M4lib/include/std_msgs/msg/detail/color_rgba__functions.c:28:1:std_msgs__msg__ColorRGBA__fini	16	static
+../Core/M4lib/include/std_msgs/msg/detail/color_rgba__functions.c:40:1:std_msgs__msg__ColorRGBA__are_equal	16	static
+../Core/M4lib/include/std_msgs/msg/detail/color_rgba__functions.c:65:1:std_msgs__msg__ColorRGBA__copy	16	static
+../Core/M4lib/include/std_msgs/msg/detail/color_rgba__functions.c:84:1:std_msgs__msg__ColorRGBA__create	40	static
+../Core/M4lib/include/std_msgs/msg/detail/color_rgba__functions.c:101:1:std_msgs__msg__ColorRGBA__destroy	40	static
+../Core/M4lib/include/std_msgs/msg/detail/color_rgba__functions.c:112:1:std_msgs__msg__ColorRGBA__Sequence__init	48	static
+../Core/M4lib/include/std_msgs/msg/detail/color_rgba__functions.c:149:1:std_msgs__msg__ColorRGBA__Sequence__fini	40	static
+../Core/M4lib/include/std_msgs/msg/detail/color_rgba__functions.c:175:1:std_msgs__msg__ColorRGBA__Sequence__create	48	static
+../Core/M4lib/include/std_msgs/msg/detail/color_rgba__functions.c:191:1:std_msgs__msg__ColorRGBA__Sequence__destroy	40	static
+../Core/M4lib/include/std_msgs/msg/detail/color_rgba__functions.c:201:1:std_msgs__msg__ColorRGBA__Sequence__are_equal	24	static
+../Core/M4lib/include/std_msgs/msg/detail/color_rgba__functions.c:218:1:std_msgs__msg__ColorRGBA__Sequence__copy	56	static

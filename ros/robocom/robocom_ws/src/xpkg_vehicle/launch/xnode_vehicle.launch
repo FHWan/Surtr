@@ -1,0 +1,12 @@
+<!--xnode_vehicle.launch-->
+<launch> 
+        <node name="xnode_vehicle" pkg="xpkg_vehicle" type="xnode_vehicle" output="screen" >
+                <param name="loc_show" value="false"/>
+                <param name="cal_speed" value="true"/>
+                <param name="rate_x" value="1.0"/>
+                <param name="rate_y" value="1.0"/>
+                <param name="rate_z" value="1.0"/>
+                <param name="rate_az" value="1.0"/>
+	</node>
+        
+</launch>

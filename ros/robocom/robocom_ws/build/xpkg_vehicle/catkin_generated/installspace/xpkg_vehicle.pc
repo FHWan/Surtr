@@ -1,0 +1,8 @@
+prefix=/home/eaibot/robocom_ws/install
+
+Name: xpkg_vehicle
+Description: Description of xpkg_vehicle
+Version: 0.1.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

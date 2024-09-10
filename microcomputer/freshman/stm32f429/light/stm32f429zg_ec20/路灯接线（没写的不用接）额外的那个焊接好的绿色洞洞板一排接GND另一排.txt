@@ -1,0 +1,56 @@
+
+ec20 5v
+HC   5v
+喷水  5v
+1.DHT11
+	5V
+	PB9
+
+2.EC20
+	5V
+RXD-----PA2  (T)
+TXD-----PA3  (R)
+
+3.蜂鸣器
+	3.3V
+I/O-----PD11
+
+4.RC522打卡
+	3.3V
+RST-----PB7
+SDA-----PB3
+SCK-----PB4
+MOSI----PB6
+MISO----PB8
+
+5.光强
+	3.3V
+	PB0
+
+6.噪音
+	3.3V
+	PA4
+
+7. PM2.5
+	3.3V
+	PA5
+
+8.紫外线
+	5V
+	PA7
+
+9.雾化
+	5V
+	PE4
+
+10.LED
+	5V
+	PE2
+
+11.HC
+	5V
+T-------PG3
+	PB1
+
+
+

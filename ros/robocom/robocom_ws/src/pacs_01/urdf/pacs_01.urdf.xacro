@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- This URDF was automatically created by SolidWorks to URDF Exporter! Originally created by Stephen Brawner (brawner@gmail.com) 
+     Commit Version: 1.6.0-4-g7f85cfe  Build Version: 1.6.7995.38578
+     For more information, please see http://wiki.ros.org/sw_urdf_exporter -->
+<robot xmlns:xacro="http://www.ros.org/wiki/xacro" 
+  xmlns:sensor="http://playerstage.sourceforge.net/gazebo/xmlschema/#sensor"
+  xmlns:controller="http://playerstage.sourceforge.net/gazebo/xmlschema/#controller"
+  xmlns:interface="http://playerstage.sourceforge.net/gazebo/xmlschema/#interface"
+  name="pacs_01">
+  <link
+    name="base_link">
+    <inertial>
+      <origin
+        xyz="-0.00219458420835894 3.83870629275841E-05 0.0392068851552257"
+        rpy="0 0 0" />
+      <mass
+        value="13.1522312064695" />
+      <inertia
+        ixx="0.156504556419624"
+        ixy="0.000140265980697997"
+        ixz="0.00148292872926079"
+        iyy="0.22162736741891"
+        iyz="8.44253920075098E-07"
+        izz="0.362774724538872" />
+    </inertial>
+    <visual>
+      <origin
+        xyz="0 0 0"
+        rpy="0 0 0" />
+      <geometry>
+        <mesh
+          filename="package://pacs_01/meshes/base_link.STL" />
+      </geometry>
+      <material
+        name="">
+        <color
+          rgba="1 1 1 1" />
+      </material>
+    </visual>
+    <collision>
+      <origin
+        xyz="0 0 0"
+        rpy="0 0 0" />
+      <geometry>
+        <mesh
+          filename="package://pacs_01/meshes/base_link.STL" />
+      </geometry>
+    </collision>
+  </link>
+<link
+    name="lidar_link">
+    <inertial>
+      <origin
+        xyz="0.0002042 6.5402E-11 0.020359"
+        rpy="0 0 0" />
+      <mass
+        value="0.16215" />
+      <inertia
+        ixx="7.3495E-05"
+        ixy="3.734E-13"
+        ixz="-1.6953E-07"
+        iyy="7.3725E-05"
+        iyz="-1.341E-13"
+        izz="0.00010201" />
+    </inertial>
+    <visual>
+      <origin
+        xyz="0 0 0"
+        rpy="0 0 0" />
+      <geometry>
+        <mesh
+          filename="package://pacs_01/meshes/lidar_link.STL" />
+      </geometry>
+      <material
+        name="">
+        <color
+          rgba="0.43921568627451 0.43921568627451 0.43921568627451 1" />
+      </material>
+    </visual>
+    <collision>
+      <origin
+        xyz="0 0 0"
+        rpy="0 0 0" />
+      <geometry>
+        <mesh
+          filename="package://pacs_01/meshes/lidar_link.STL" />
+      </geometry>
+    </collision>
+  </link>
+  <joint
+    name="lidar_link_joint"
+    type="fixed">
+    <origin
+      xyz="0.188330058988242 0 0.0844627274970639"
+      rpy="0 0 0" />
+    <parent
+      link="base_link" />
+    <child
+      link="lidar_link" />
+    <axis
+      xyz="0 0 0" />
+  </joint>
+  <link
+    name="left_front_wheel_link">
+    <inertial>
+      <origin
+        xyz="2.9792334155232E-09 0.0182050746105527 -1.62390044466942E-09"
+        rpy="0 0 0" />
+      <mass
+        value="0.824539492234795" />
+      <inertia
+        ixx="0.00139691618870293"
+        ixy="-2.40709385661498E-11"
+        ixz="7.94951978365798E-08"
+        iyy="0.00254783549923954"
+        iyz="2.64959677380526E-11"
+        izz="0.00139558327985706" />
+    </inertial>
+    <visual>
+      <origin
+        xyz="0 0 0"
+        rpy="0 0 0" />
+      <geometry>
+        <mesh
+          filename="package://pacs_01/meshes/left_front_wheel_link.STL" />
+      </geometry>
+      <material
+        name="">
+        <color
+          rgba="0.792156862745098 0.819607843137255 0.933333333333333 1" />
+      </material>
+    </visual>
+    <collision>
+      <origin
+        xyz="0 0 0"
+        rpy="0 0 0" />
+      <geometry>
+        <mesh
+          filename="package://pacs_01/meshes/left_front_wheel_link.STL" />
+      </geometry>
+    </collision>
+  </link>
+  <joint
+    name="left_front_wheel_link_joint"
+    type="continuous">
+    <origin
+      xyz="0.16727499992998 0.201999999999998 0.00096482289579701"
+      rpy="0 0 0" />
+    <parent
+      link="base_link" />
+    <child
+      link="left_front_wheel_link" />
+    <axis
+      xyz="0 1 0" />
+  </joint>
+  <link
+    name="left_behind_wheel_link">
+    <inertial>
+      <origin
+        xyz="-9.49747003264889E-10 0.0182050881806605 -2.51594751976558E-09"
+        rpy="0 0 0" />
+      <mass
+        value="0.824533282072352" />
+      <inertia
+        ixx="0.00139690520741326"
+        ixy="1.18779669056762E-11"
+        ixz="-8.35891499671099E-08"
+        iyy="0.00254786949454698"
+        iyz="2.86085856349142E-11"
+        izz="0.00139562797853652" />
+    </inertial>
+    <visual>
+      <origin
+        xyz="0 0 0"
+        rpy="0 0 0" />
+      <geometry>
+        <mesh
+          filename="package://pacs_01/meshes/left_behind_wheel_link.STL" />
+      </geometry>
+      <material
+        name="">
+        <color
+          rgba="0.792156862745098 0.819607843137255 0.933333333333333 1" />
+      </material>
+    </visual>
+    <collision>
+      <origin
+        xyz="0 0 0"
+        rpy="0 0 0" />
+      <geometry>
+        <mesh
+          filename="package://pacs_01/meshes/left_behind_wheel_link.STL" />
+      </geometry>
+    </collision>
+  </link>
+  <joint
+    name="left_behind_wheel_link_joint"
+    type="continuous">
+    <origin
+      xyz="-0.16727500000146 0.202 0.000964823442346829"
+      rpy="0 0 0" />
+    <parent
+      link="base_link" />
+    <child
+      link="left_behind_wheel_link" />
+    <axis
+      xyz="0 1 0" />
+  </joint>
+  <link
+    name="right_front_wheel_link">
+    <inertial>
+      <origin
+        xyz="9.35565837023589E-08 -0.0182050963105626 1.95063762503667E-08"
+        rpy="0 0 0" />
+      <mass
+        value="0.824532348335186" />
+      <inertia
+        ixx="0.00139687678935505"
+        ixy="-4.2008163305329E-13"
+        ixz="3.09713359425899E-07"
+        iyy="0.00254788486215687"
+        iyz="2.2229732433845E-11"
+        izz="0.00139567211248768" />
+    </inertial>
+    <visual>
+      <origin
+        xyz="0 0 0"
+        rpy="0 0 0" />
+      <geometry>
+        <mesh
+          filename="package://pacs_01/meshes/right_front_wheel_link.STL" />
+      </geometry>
+      <material
+        name="">
+        <color
+          rgba="0.792156862745098 0.819607843137255 0.933333333333333 1" />
+      </material>
+    </visual>
+    <collision>
+      <origin
+        xyz="0 0 0"
+        rpy="0 0 0" />
+      <geometry>
+        <mesh
+          filename="package://pacs_01/meshes/right_front_wheel_link.STL" />
+      </geometry>
+    </collision>
+  </link>
+  <joint
+    name="right_front_wheel_link_joint"
+    type="continuous">
+    <origin
+      xyz="0.167274999739344 -0.201999999999997 0.000964823984624538"
+      rpy="0 0 0" />
+    <parent
+      link="base_link" />
+    <child
+      link="right_front_wheel_link" />
+    <axis
+      xyz="0 -1 0" />
+  </joint>
+  <link
+    name="right_behind_wheel_link">
+    <inertial>
+      <origin
+        xyz="-8.01308603798345E-06 -0.0182050839103516 -2.14114836171037E-05"
+        rpy="0 0 0" />
+      <mass
+        value="0.824534297834338" />
+      <inertia
+        ixx="0.00139691263999912"
+        ixy="4.70615268556942E-11"
+        ixz="8.41944236930472E-08"
+        iyy="0.00254787577648229"
+        iyz="-1.20102020385889E-10"
+        izz="0.00139562721368499" />
+    </inertial>
+    <visual>
+      <origin
+        xyz="0 0 0"
+        rpy="0 0 0" />
+      <geometry>
+        <mesh
+          filename="package://pacs_01/meshes/right_behind_wheel_link.STL" />
+      </geometry>
+      <material
+        name="">
+        <color
+          rgba="0.792156862745098 0.819607843137255 0.933333333333333 1" />
+      </material>
+    </visual>
+    <collision>
+      <origin
+        xyz="0 0 0"
+        rpy="0 0 0" />
+      <geometry>
+        <mesh
+          filename="package://pacs_01/meshes/right_behind_wheel_link.STL" />
+      </geometry>
+    </collision>
+  </link>
+  <joint
+    name="right_behind_wheel_link_joint"
+    type="continuous">
+    <origin
+      xyz="-0.167266982821384 -0.201999999999996 0.000986224173708944"
+      rpy="0 0 0" />
+    <parent
+      link="base_link" />
+    <child
+      link="right_behind_wheel_link" />
+    <axis
+      xyz="0 -1 0" />
+  </joint>
+
+<!--lidar_link-->
+
+        <gazebo reference="lidar_link">
+
+            <sensor type="ray" name="rplidar">
+
+                <pose>0 0 0 0 0 0</pose>
+
+                <visualize>false</visualize>
+
+                <update_rate>5.5</update_rate>
+
+                <ray>
+
+                    <scan>
+
+                      <horizontal>
+
+                        <samples>360</samples>
+
+                        <resolution>1</resolution>
+
+                        <min_angle>-3</min_angle>
+
+                        <max_angle>3</max_angle>
+
+                      </horizontal>
+
+                    </scan>
+
+                    <range>
+
+                      <min>0.10</min>
+
+                      <max>6.0</max>
+
+                      <resolution>0.01</resolution>
+
+                    </range>
+
+                    <noise>
+
+                      <type>gaussian</type>
+
+                      <mean>0.0</mean>
+
+                      <stddev>0.01</stddev>
+
+                    </noise>
+
+                </ray>
+
+                <plugin name="gazebo_rplidar" filename="libgazebo_ros_laser.so">
+
+                    <topicName>/scan</topicName>
+
+                    <frameName>lidar_link</frameName>
+
+                </plugin>
+
+            </sensor>
+
+        </gazebo>
+
+
+
+
+
+<!-- Drive controller -->
+
+<gazebo>
+
+  <plugin name="skid_steer_drive_controller" filename="libgazebo_ros_skid_steer_drive.so">
+
+    <updateRate>100.0</updateRate>
+
+    <robotNamespace></robotNamespace>
+
+    <leftFrontJoint>left_front_wheel_link_joint</leftFrontJoint>
+
+    <rightFrontJoint>right_front_wheel_link_joint</rightFrontJoint>
+
+    <leftRearJoint>left_behind_wheel_link_joint</leftRearJoint>
+
+    <rightRearJoint>right_behind_wheel_link_joint</rightRearJoint>
+
+    <wheelSeparation>0.445</wheelSeparation>
+
+    <wheelDiameter>0.162</wheelDiameter>
+
+    <commandTopic>cmd_vel</commandTopic>
+
+    <odometryTopic>odom</odometryTopic>
+
+    <robotBaseFrame>base_link</robotBaseFrame>
+
+    <odometryFrame>odom</odometryFrame>
+
+    <torque>1000</torque>
+
+    <topicName>cmd_vel</topicName>
+
+    <broadcastTF>1</broadcastTF>
+
+  </plugin>
+
+</gazebo>
+
+
+
+
+
+<!-- ros_control plugin -->
+
+  <gazebo>
+
+    <plugin name="gazebo_ros_control" filename="libgazebo_ros_control.so">
+
+      <robotNamespace>/run_robot</robotNamespace>
+
+      <legacyModeNS>true</legacyModeNS>
+
+    </plugin>
+
+  </gazebo>
+
+
+
+<!--friction-->
+
+ <gazebo reference="left_front_wheel_link">
+
+		    <mu1>10000</mu1>
+
+		    <mu2>10000</mu2>
+
+		    <kp>10000000</kp>
+
+		    <kd>1</kd>
+
+	</gazebo>
+
+
+
+  <gazebo reference="left_behind_wheel_link">
+
+
+
+		    <mu1>10000</mu1>
+
+		    <mu2>10000</mu2>
+
+		    <kp>10000000</kp>
+
+		    <kd>1</kd>
+
+	</gazebo>
+
+
+
+  <gazebo reference="right_front_wheel_link">
+
+		    <mu1>10000</mu1>
+
+		    <mu2>10000</mu2>
+
+		    <kp>10000000</kp>
+
+		    <kd>1</kd>
+
+	</gazebo>
+
+
+
+  <gazebo reference="right_behind_wheel_link">
+
+		    <mu1>10000</mu1>
+
+		    <mu2>10000</mu2>
+
+		    <kp>10000000</kp>
+
+		    <kd>1</kd>
+
+	</gazebo>
+
+
+
+</robot>

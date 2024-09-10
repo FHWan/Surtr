@@ -1,0 +1,15 @@
+../Core/M4lib/include/sensor_msgs/msg/detail/joy__type_support.c:29:6:sensor_msgs__msg__Joy__rosidl_typesupport_introspection_c__Joy_init_function	1
+../Core/M4lib/include/sensor_msgs/msg/detail/joy__type_support.c:38:6:sensor_msgs__msg__Joy__rosidl_typesupport_introspection_c__Joy_fini_function	1
+../Core/M4lib/include/sensor_msgs/msg/detail/joy__type_support.c:43:8:sensor_msgs__msg__Joy__rosidl_typesupport_introspection_c__size_function__Joy__axes	1
+../Core/M4lib/include/sensor_msgs/msg/detail/joy__type_support.c:51:14:sensor_msgs__msg__Joy__rosidl_typesupport_introspection_c__get_const_function__Joy__axes	1
+../Core/M4lib/include/sensor_msgs/msg/detail/joy__type_support.c:59:8:sensor_msgs__msg__Joy__rosidl_typesupport_introspection_c__get_function__Joy__axes	1
+../Core/M4lib/include/sensor_msgs/msg/detail/joy__type_support.c:67:6:sensor_msgs__msg__Joy__rosidl_typesupport_introspection_c__fetch_function__Joy__axes	1
+../Core/M4lib/include/sensor_msgs/msg/detail/joy__type_support.c:78:6:sensor_msgs__msg__Joy__rosidl_typesupport_introspection_c__assign_function__Joy__axes	1
+../Core/M4lib/include/sensor_msgs/msg/detail/joy__type_support.c:89:6:sensor_msgs__msg__Joy__rosidl_typesupport_introspection_c__resize_function__Joy__axes	1
+../Core/M4lib/include/sensor_msgs/msg/detail/joy__type_support.c:98:8:sensor_msgs__msg__Joy__rosidl_typesupport_introspection_c__size_function__Joy__buttons	1
+../Core/M4lib/include/sensor_msgs/msg/detail/joy__type_support.c:106:14:sensor_msgs__msg__Joy__rosidl_typesupport_introspection_c__get_const_function__Joy__buttons	1
+../Core/M4lib/include/sensor_msgs/msg/detail/joy__type_support.c:114:8:sensor_msgs__msg__Joy__rosidl_typesupport_introspection_c__get_function__Joy__buttons	1
+../Core/M4lib/include/sensor_msgs/msg/detail/joy__type_support.c:122:6:sensor_msgs__msg__Joy__rosidl_typesupport_introspection_c__fetch_function__Joy__buttons	1
+../Core/M4lib/include/sensor_msgs/msg/detail/joy__type_support.c:133:6:sensor_msgs__msg__Joy__rosidl_typesupport_introspection_c__assign_function__Joy__buttons	1
+../Core/M4lib/include/sensor_msgs/msg/detail/joy__type_support.c:144:6:sensor_msgs__msg__Joy__rosidl_typesupport_introspection_c__resize_function__Joy__buttons	1
+../Core/M4lib/include/sensor_msgs/msg/detail/joy__type_support.c:230:1:rosidl_typesupport_introspection_c__get_message_type_support_handle__sensor_msgs__msg__Joy	2

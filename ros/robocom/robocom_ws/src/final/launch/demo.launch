@@ -1,0 +1,15 @@
+<launch>
+    <!-- 启动 xpkg_bringup 包中的 bringup_basic_ctrl.launch -->
+    <include file="$(find xpkg_bringup)/launch/bringup_vehicle/bringup_basic_ctrl.launch" />
+
+    <!-- 启动 usb_cam 包中的 usb_cam-test.launch -->
+    <include file="$(find usb_cam)/launch/usb_cam-test.launch" />
+
+    <!--打开双目相机 --> 
+    <include file="$(find astra_camera)/launch/astrapro.launch" />
+
+    <!-- 启动 nav_pacs 包中的 nav06_nav.launch -->
+    <include file="$(find nav_pacs)/launch/nav06_nav.launch" />
+
+</launch>
+

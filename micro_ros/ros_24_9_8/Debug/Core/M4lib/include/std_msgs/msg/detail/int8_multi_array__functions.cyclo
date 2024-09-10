@@ -1,0 +1,12 @@
+../Core/M4lib/include/std_msgs/msg/detail/int8_multi_array__functions.c:21:1:std_msgs__msg__Int8MultiArray__init	4
+../Core/M4lib/include/std_msgs/msg/detail/int8_multi_array__functions.c:40:1:std_msgs__msg__Int8MultiArray__fini	2
+../Core/M4lib/include/std_msgs/msg/detail/int8_multi_array__functions.c:52:1:std_msgs__msg__Int8MultiArray__are_equal	5
+../Core/M4lib/include/std_msgs/msg/detail/int8_multi_array__functions.c:73:1:std_msgs__msg__Int8MultiArray__copy	5
+../Core/M4lib/include/std_msgs/msg/detail/int8_multi_array__functions.c:96:1:std_msgs__msg__Int8MultiArray__create	3
+../Core/M4lib/include/std_msgs/msg/detail/int8_multi_array__functions.c:113:1:std_msgs__msg__Int8MultiArray__destroy	2
+../Core/M4lib/include/std_msgs/msg/detail/int8_multi_array__functions.c:124:1:std_msgs__msg__Int8MultiArray__Sequence__init	8
+../Core/M4lib/include/std_msgs/msg/detail/int8_multi_array__functions.c:161:1:std_msgs__msg__Int8MultiArray__Sequence__fini	4
+../Core/M4lib/include/std_msgs/msg/detail/int8_multi_array__functions.c:187:1:std_msgs__msg__Int8MultiArray__Sequence__create	3
+../Core/M4lib/include/std_msgs/msg/detail/int8_multi_array__functions.c:203:1:std_msgs__msg__Int8MultiArray__Sequence__destroy	2
+../Core/M4lib/include/std_msgs/msg/detail/int8_multi_array__functions.c:213:1:std_msgs__msg__Int8MultiArray__Sequence__are_equal	6
+../Core/M4lib/include/std_msgs/msg/detail/int8_multi_array__functions.c:230:1:std_msgs__msg__Int8MultiArray__Sequence__copy	10

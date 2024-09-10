@@ -1,0 +1,2 @@
+../Core/extra_sources/microros_time.c:9:6:UTILS_NanosecondsToTimespec	8	static
+../Core/extra_sources/microros_time.c:29:5:clock_gettime	24	static

@@ -1,0 +1,12 @@
+../Core/M4lib/include/sensor_msgs/msg/detail/magnetic_field__functions.c:21:1:sensor_msgs__msg__MagneticField__init	4
+../Core/M4lib/include/sensor_msgs/msg/detail/magnetic_field__functions.c:41:1:sensor_msgs__msg__MagneticField__fini	2
+../Core/M4lib/include/sensor_msgs/msg/detail/magnetic_field__functions.c:54:1:sensor_msgs__msg__MagneticField__are_equal	7
+../Core/M4lib/include/sensor_msgs/msg/detail/magnetic_field__functions.c:81:1:sensor_msgs__msg__MagneticField__copy	6
+../Core/M4lib/include/sensor_msgs/msg/detail/magnetic_field__functions.c:108:1:sensor_msgs__msg__MagneticField__create	3
+../Core/M4lib/include/sensor_msgs/msg/detail/magnetic_field__functions.c:125:1:sensor_msgs__msg__MagneticField__destroy	2
+../Core/M4lib/include/sensor_msgs/msg/detail/magnetic_field__functions.c:136:1:sensor_msgs__msg__MagneticField__Sequence__init	8
+../Core/M4lib/include/sensor_msgs/msg/detail/magnetic_field__functions.c:173:1:sensor_msgs__msg__MagneticField__Sequence__fini	4
+../Core/M4lib/include/sensor_msgs/msg/detail/magnetic_field__functions.c:199:1:sensor_msgs__msg__MagneticField__Sequence__create	3
+../Core/M4lib/include/sensor_msgs/msg/detail/magnetic_field__functions.c:215:1:sensor_msgs__msg__MagneticField__Sequence__destroy	2
+../Core/M4lib/include/sensor_msgs/msg/detail/magnetic_field__functions.c:225:1:sensor_msgs__msg__MagneticField__Sequence__are_equal	6
+../Core/M4lib/include/sensor_msgs/msg/detail/magnetic_field__functions.c:242:1:sensor_msgs__msg__MagneticField__Sequence__copy	10

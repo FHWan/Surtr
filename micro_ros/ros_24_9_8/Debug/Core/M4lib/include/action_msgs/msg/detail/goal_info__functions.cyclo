@@ -1,0 +1,12 @@
+../Core/M4lib/include/action_msgs/msg/detail/goal_info__functions.c:21:1:action_msgs__msg__GoalInfo__init	4
+../Core/M4lib/include/action_msgs/msg/detail/goal_info__functions.c:40:1:action_msgs__msg__GoalInfo__fini	2
+../Core/M4lib/include/action_msgs/msg/detail/goal_info__functions.c:52:1:action_msgs__msg__GoalInfo__are_equal	5
+../Core/M4lib/include/action_msgs/msg/detail/goal_info__functions.c:73:1:action_msgs__msg__GoalInfo__copy	5
+../Core/M4lib/include/action_msgs/msg/detail/goal_info__functions.c:96:1:action_msgs__msg__GoalInfo__create	3
+../Core/M4lib/include/action_msgs/msg/detail/goal_info__functions.c:113:1:action_msgs__msg__GoalInfo__destroy	2
+../Core/M4lib/include/action_msgs/msg/detail/goal_info__functions.c:124:1:action_msgs__msg__GoalInfo__Sequence__init	8
+../Core/M4lib/include/action_msgs/msg/detail/goal_info__functions.c:161:1:action_msgs__msg__GoalInfo__Sequence__fini	4
+../Core/M4lib/include/action_msgs/msg/detail/goal_info__functions.c:187:1:action_msgs__msg__GoalInfo__Sequence__create	3
+../Core/M4lib/include/action_msgs/msg/detail/goal_info__functions.c:203:1:action_msgs__msg__GoalInfo__Sequence__destroy	2
+../Core/M4lib/include/action_msgs/msg/detail/goal_info__functions.c:213:1:action_msgs__msg__GoalInfo__Sequence__are_equal	6
+../Core/M4lib/include/action_msgs/msg/detail/goal_info__functions.c:230:1:action_msgs__msg__GoalInfo__Sequence__copy	10

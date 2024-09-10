@@ -1,0 +1,8 @@
+prefix=/home/eaibot/robocom_ws/devel
+
+Name: pacs_01
+Description: Description of pacs_01
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

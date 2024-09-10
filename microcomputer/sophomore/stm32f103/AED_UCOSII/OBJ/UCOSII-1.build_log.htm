@@ -1,0 +1,147 @@
+<html>
+<body>
+<pre>
+<h1>礦ision Build Log</h1>
+<h2>Tool Versions:</h2>
+IDE-Version: μVision V5.24.2.0
+Copyright (C) 2017 ARM Ltd and ARM Germany GmbH. All rights reserved.
+License Information: F Lenovo, F, LIC=76F5U-SE906-HLCCL-0FR40-NT055-1Y3TY
+ 
+Tool Versions:
+Toolchain:       MDK-ARM Plus  Version: 5.24.1
+Toolchain Path:  F:\stm32\Keil555\ARM\ARMCC\Bin
+C Compiler:      Armcc.exe V5.06 update 5 (build 528)
+Assembler:       Armasm.exe V5.06 update 5 (build 528)
+Linker/Locator:  ArmLink.exe V5.06 update 5 (build 528)
+Library Manager: ArmAr.exe V5.06 update 5 (build 528)
+Hex Converter:   FromElf.exe V5.06 update 5 (build 528)
+CPU DLL:         SARMCM3.DLL V5.24.1
+Dialog DLL:      DCM.DLL V1.16.0.0
+Target DLL:      STLink\ST-LINKIII-KEIL_SWO.dll V3.0.1.0
+Dialog DLL:      TCM.DLL V1.32.0.0
+ 
+<h2>Project:</h2>
+G:\git\Surtr\microcomputer\sophomore\stm32f103\AED_UCOSII\USER\UCOSII-1.uvprojx
+Project File Date:  04/07/2024
+
+<h2>Output:</h2>
+*** Using Compiler 'V5.06 update 5 (build 528)', folder: 'F:\stm32\Keil555\ARM\ARMCC\Bin'
+Rebuild target 'UCOSII-1'
+compiling stm32f10x_it.c...
+compiling system_stm32f10x.c...
+compiling main.c...
+compiling servor.c...
+compiling mpuiic.c...
+..\HARDWARE\MPU6050\mpuiic.c(59): warning:  #61-D: integer operation result is out of range
+  	
+PU_SDA_IN();      //SDA设置为输入  
+..\HARDWARE\MPU6050\mpuiic.c(59): warning:  #68-D: integer conversion resulted in a change of sign
+  	
+PU_SDA_IN();      //SDA设置为输入  
+..\HARDWARE\MPU6050\mpuiic.c(119): warning:  #61-D: integer operation result is out of range
+  	
+PU_SDA_IN();//SDA设置为输入
+..\HARDWARE\MPU6050\mpuiic.c(119): warning:  #68-D: integer conversion resulted in a change of sign
+  	
+PU_SDA_IN();//SDA设置为输入
+..\HARDWARE\MPU6050\mpuiic.c: 4 warnings, 0 errors
+compiling PWM.c...
+compiling EC20.c...
+..\HARDWARE\EC20\EC20.c(85): warning:  #177-D: variable "data"  was declared but never referenced
+  	uint8_t data = 0x1a;
+..\HARDWARE\EC20\EC20.c(126): warning:  #177-D: variable "data"  was declared but never referenced
+  	uint8_t data = 0x1a;
+..\HARDWARE\EC20\EC20.c(208): warning:  #550-D: variable "payload_len"  was set but never used
+          int payload_len;
+..\HARDWARE\EC20\EC20.c(232): warning:  #550-D: variable "flag"  was set but never used
+      int flag;
+..\HARDWARE\EC20\EC20.c(236): warning:  #550-D: variable "shijian"  was set but never used
+      char shijian[17]=":";
+..\HARDWARE\EC20\EC20.c: 5 warnings, 0 errors
+compiling key.c...
+compiling led.c...
+compiling adc.c...
+compiling mpu6050.c...
+compiling ucosll-use.c...
+ucosll-use.c(219): warning:  #167-D: argument of type "u8 *" is incompatible with parameter of type "char *restrict"
+  		sprintf(datastr,"%d",data_len);
+ucosll-use.c(222): warning:  #167-D: argument of type "u8 *" is incompatible with parameter of type "const char *restrict"
+  		printf(send_jason);
+ucosll-use.c(314): warning:  #167-D: argument of type "u8 *" is incompatible with parameter of type "const char *"
+  				start_index = strstr(RxBuffer1,"Unknown");
+ucosll-use.c(315): warning:  #167-D: argument of type "u8 *" is incompatible with parameter of type "const char *"
+  				end_index   = strstr(RxBuffer1,".jpg");
+ucosll-use.c(316): warning:  #42-D: operand types are incompatible ("char *" and "u8 *")
+  				strncat(picture, &RxBuffer1[start_index-RxBuffer1], end_index - start_index + 4);  // 将源字符串中指定范围内的字符拼接到目标字符串
+ucosll-use.c(316): warning:  #993-D: subtraction of pointer types "char *" and "u8 *" is nonstandard
+  				strncat(picture, &RxBuffer1[start_index-RxBuffer1], end_index - start_index + 4);  // 将源字符串中指定范围内的字符拼接到目标字符串
+ucosll-use.c(316): warning:  #167-D: argument of type "u8 *" is incompatible with parameter of type "const char *restrict"
+  				strncat(picture, &RxBuffer1[start_index-RxBuffer1], end_index - start_index + 4);  // 将源字符串中指定范围内的字符拼接到目标字符串
+ucosll-use.c(328): warning:  #167-D: argument of type "u8 *" is incompatible with parameter of type "const char *"
+  				start_index = strstr(RxBuffer1,"fan");
+ucosll-use.c(329): warning:  #167-D: argument of type "u8 *" is incompatible with parameter of type "const char *"
+  				end_index   = strstr(RxBuffer1,".jpg");
+ucosll-use.c(330): warning:  #42-D: operand types are incompatible ("char *" and "u8 *")
+  				strncat(picture, &RxBuffer1[start_index-RxBuffer1], end_index - start_index + 4);  // 将源字符串中指定范围内的字符拼接到目标字符串
+ucosll-use.c(330): warning:  #993-D: subtraction of pointer types "char *" and "u8 *" is nonstandard
+  				strncat(picture, &RxBuffer1[start_index-RxBuffer1], end_index - start_index + 4);  // 将源字符串中指定范围内的字符拼接到目标字符串
+ucosll-use.c(330): warning:  #167-D: argument of type "u8 *" is incompatible with parameter of type "const char *restrict"
+  				strncat(picture, &RxBuffer1[start_index-RxBuffer1], end_index - start_index + 4);  // 将源字符串中指定范围内的字符拼接到目标字符串
+ucosll-use.c(342): warning:  #167-D: argument of type "u8 *" is incompatible with parameter of type "const char *"
+  				start_index = strstr(RxBuffer1,"xzf");
+ucosll-use.c(343): warning:  #167-D: argument of type "u8 *" is incompatible with parameter of type "const char *"
+  				end_index   = strstr(RxBuffer1,".jpg");
+ucosll-use.c(344): warning:  #42-D: operand types are incompatible ("char *" and "u8 *")
+  				strncat(picture, &RxBuffer1[start_index-RxBuffer1], end_index - start_index + 4);  // 将源字符串中指定范围内的字符拼接到目标字符串
+ucosll-use.c(344): warning:  #993-D: subtraction of pointer types "char *" and "u8 *" is nonstandard
+  				strncat(picture, &RxBuffer1[start_index-RxBuffer1], end_index - start_index + 4);  // 将源字符串中指定范围内的字符拼接到目标字符串
+ucosll-use.c(344): warning:  #167-D: argument of type "u8 *" is incompatible with parameter of type "const char *restrict"
+  				strncat(picture, &RxBuffer1[start_index-RxBuffer1], end_index - start_index + 4);  // 将源字符串中指定范围内的字符拼接到目标字符串
+ucosll-use.c: 17 warnings, 0 errors
+compiling inv_mpu_dmp_motion_driver.c...
+compiling inv_mpu.c...
+assembling startup_stm32f10x_hd.s...
+compiling delay.c...
+compiling core_cm3.c...
+compiling usart.c...
+compiling sys.c...
+compiling misc.c...
+compiling stm32f10x_dbgmcu.c...
+compiling stm32f10x_gpio.c...
+compiling stm32f10x_usart.c...
+compiling stm32f10x_adc.c...
+compiling stm32f10x_rcc.c...
+assembling os_cpu_a.asm...
+compiling os_mem.c...
+compiling os_core.c...
+compiling stm32f10x_tim.c...
+compiling os_flag.c...
+compiling os_mutex.c...
+compiling os_mbox.c...
+compiling os_q.c...
+compiling os_tmr.c...
+compiling os_cpu_c.c...
+compiling os_sem.c...
+compiling os_time.c...
+compiling os_task.c...
+linking...
+Program Size: Code=38764 RO-data=4776 RW-data=304 ZI-data=10784  
+FromELF: creating hex file...
+"..\OBJ\UCOSII-1.axf" - 0 Error(s), 26 Warning(s).
+
+<h2>Software Packages used:</h2>
+
+Package Vendor: Keil
+                http://www.keil.com/pack/Keil.STM32F1xx_DFP.2.2.0.pack
+                Keil.STM32F1xx_DFP.2.2.0
+                STMicroelectronics STM32F1 Series Device Support, Drivers and Examples
+
+<h2>Collection of Component include folders:</h2>
+  .\RTE\_UCOSII-1
+  F:\stm32\Keil555\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include
+
+<h2>Collection of Component Files used:</h2>
+Build Time Elapsed:  00:00:06
+</pre>
+</body>
+</html>

@@ -1,0 +1,8 @@
+prefix=/home/eaibot/robocom_ws/devel
+
+Name: nav_pacs
+Description: Description of nav_pacs
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,34 @@
+1.DHT11
+	5V
+	PB9
+
+2.心率血氧
+	5V
+RX------PA9  (T)
+TX------PA10 (R)
+
+3.EC20
+	5V
+RXD-----PA2  (T)
+TXD-----PA3  (R)
+
+4.风速
+蓝色连GND
+红色连PA5
+
+5.MPU6050六轴
+	3.3V
+SCL-----PH7
+SDA-----PH8
+
+6.蜂鸣器
+	3.3V
+I/O-----PD11
+
+7.RC522打卡
+	3.3V
+RST-----PB7
+SDA-----PB3
+SCK-----PB4
+MOSI----PB6
+MISO----PB8

@@ -1,0 +1,9 @@
+<!--xnode_comm.launch-->
+<launch> 
+  	<node name="xnode_comm" pkg="xpkg_comm" type="xnode_comm" output="screen" >
+		<param name="com_enable" value="1"/>
+		<param name="tcp_enable" value="0"/>
+                <param name="dev_msg" value="false"/>
+	</node>
+        
+</launch>

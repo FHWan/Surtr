@@ -1,0 +1,15 @@
+<launch>
+    <!-- 启动 机械臂 -->
+    <include file="$(find mirobot_moveit_config)/launch/mirobot.launch" />
+
+    <!-- 包含 easy_handeye 的 publish.launch 文件 -->
+    <include file="$(find easy_handeye)/launch/publish.launch">
+        <!-- 传递 eye_on_hand 参数 -->
+        <arg name="eye_on_hand" value="false" />
+    </include>
+
+    <!-- 打开AprilTag检测 -->
+    <include file="$(find apriltag_ros)/launch/continuous_detection.launch" />
+
+</launch>
+

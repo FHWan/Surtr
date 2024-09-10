@@ -1,0 +1,4 @@
+../Core/M4lib/include/test_msgs/msg/detail/w_strings__description.c:9:1:test_msgs__msg__WStrings__get_type_hash	1
+../Core/M4lib/include/test_msgs/msg/detail/w_strings__description.c:119:1:test_msgs__msg__WStrings__get_type_description	2
+../Core/M4lib/include/test_msgs/msg/detail/w_strings__description.c:154:1:test_msgs__msg__WStrings__get_individual_type_description_source	1
+../Core/M4lib/include/test_msgs/msg/detail/w_strings__description.c:167:1:test_msgs__msg__WStrings__get_type_description_sources	2

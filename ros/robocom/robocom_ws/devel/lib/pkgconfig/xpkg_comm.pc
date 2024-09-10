@@ -1,0 +1,8 @@
+prefix=/home/eaibot/robocom_ws/devel
+
+Name: xpkg_comm
+Description: Description of xpkg_comm
+Version: 0.1.0
+Cflags: -I/home/eaibot/robocom_ws/devel/include
+Libs: -L${prefix}/lib 
+Requires: message_runtime

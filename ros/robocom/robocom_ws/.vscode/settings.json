@@ -1,0 +1,11 @@
+{
+    "python.autoComplete.extraPaths": [
+        ""
+    ],
+    "python.analysis.extraPaths": [
+        "/home/eaibot/robocom_ws/devel/lib/python2.7/dist-packages",
+        "/home/eaibot/handeye-calib/devel/lib/python2.7/dist-packages",
+        "/home/eaibot/mirobot_ws/devel/lib/python2.7/dist-packages",
+        "/opt/ros/melodic/lib/python2.7/dist-packages"
+    ]
+}

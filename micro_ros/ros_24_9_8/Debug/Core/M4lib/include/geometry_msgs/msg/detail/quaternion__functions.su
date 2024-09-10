@@ -1,0 +1,12 @@
+../Core/M4lib/include/geometry_msgs/msg/detail/quaternion__functions.c:15:1:geometry_msgs__msg__Quaternion__init	16	static
+../Core/M4lib/include/geometry_msgs/msg/detail/quaternion__functions.c:32:1:geometry_msgs__msg__Quaternion__fini	16	static
+../Core/M4lib/include/geometry_msgs/msg/detail/quaternion__functions.c:44:1:geometry_msgs__msg__Quaternion__are_equal	16	static
+../Core/M4lib/include/geometry_msgs/msg/detail/quaternion__functions.c:69:1:geometry_msgs__msg__Quaternion__copy	16	static
+../Core/M4lib/include/geometry_msgs/msg/detail/quaternion__functions.c:88:1:geometry_msgs__msg__Quaternion__create	40	static
+../Core/M4lib/include/geometry_msgs/msg/detail/quaternion__functions.c:105:1:geometry_msgs__msg__Quaternion__destroy	40	static
+../Core/M4lib/include/geometry_msgs/msg/detail/quaternion__functions.c:116:1:geometry_msgs__msg__Quaternion__Sequence__init	48	static
+../Core/M4lib/include/geometry_msgs/msg/detail/quaternion__functions.c:153:1:geometry_msgs__msg__Quaternion__Sequence__fini	40	static
+../Core/M4lib/include/geometry_msgs/msg/detail/quaternion__functions.c:179:1:geometry_msgs__msg__Quaternion__Sequence__create	48	static
+../Core/M4lib/include/geometry_msgs/msg/detail/quaternion__functions.c:195:1:geometry_msgs__msg__Quaternion__Sequence__destroy	40	static
+../Core/M4lib/include/geometry_msgs/msg/detail/quaternion__functions.c:205:1:geometry_msgs__msg__Quaternion__Sequence__are_equal	24	static
+../Core/M4lib/include/geometry_msgs/msg/detail/quaternion__functions.c:222:1:geometry_msgs__msg__Quaternion__Sequence__copy	56	static

@@ -1,0 +1,8 @@
+<launch>
+  <node name="pacs_robot_teleop" pkg="pacs_01" type="run_robot_teleop.py" output="screen">
+    <param name="scale_linear" value="1.0" type="double"/>
+    <param name="scale_angular" value="1.0" type="double"/>
+  </node>
+</launch>
+
+

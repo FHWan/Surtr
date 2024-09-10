@@ -1,0 +1,1 @@
+/usr/bin/cc -O2 -g -DNDEBUG  -rdynamic CMakeFiles/astra_usb_reset.dir/src/usb_reset.c.o  -o /home/eaibot/robocom_ws/devel/lib/astra_camera/astra_usb_reset  -L/home/eaibot/robocom_ws/src/astra_camera/include/openni2_redist/x64 

@@ -1,0 +1,3 @@
+../Core/M4lib/include/std_msgs/msg/detail/header__type_support.c:28:6:std_msgs__msg__Header__rosidl_typesupport_introspection_c__Header_init_function	16	static
+../Core/M4lib/include/std_msgs/msg/detail/header__type_support.c:37:6:std_msgs__msg__Header__rosidl_typesupport_introspection_c__Header_fini_function	16	static
+../Core/M4lib/include/std_msgs/msg/detail/header__type_support.c:102:1:rosidl_typesupport_introspection_c__get_message_type_support_handle__std_msgs__msg__Header	8	static

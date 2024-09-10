@@ -1,0 +1,2 @@
+astra_camera:final:map/laser_scan_matcher:map/nav_pacs:pacs_01:rviz_tools/src/dashgo_rviz:track:usb_cam:xpkg_bringup:xpkg_comm:xpkg_vehicle:ydlidar_ros_driver
+-DCATKIN_DEVEL_PREFIX=/home/eaibot/robocom_ws/devel -DCMAKE_INSTALL_PREFIX=/home/eaibot/robocom_ws/install -G Unix Makefiles

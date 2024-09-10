@@ -1,0 +1,12 @@
+../Core/M4lib/include/test_msgs/msg/detail/strings__functions.c:30:1:test_msgs__msg__Strings__init	32	static
+../Core/M4lib/include/test_msgs/msg/detail/strings__functions.c:179:1:test_msgs__msg__Strings__fini	16	static
+../Core/M4lib/include/test_msgs/msg/detail/strings__functions.c:211:1:test_msgs__msg__Strings__are_equal	16	static
+../Core/M4lib/include/test_msgs/msg/detail/strings__functions.c:292:1:test_msgs__msg__Strings__copy	16	static
+../Core/M4lib/include/test_msgs/msg/detail/strings__functions.c:375:1:test_msgs__msg__Strings__create	40	static
+../Core/M4lib/include/test_msgs/msg/detail/strings__functions.c:392:1:test_msgs__msg__Strings__destroy	40	static
+../Core/M4lib/include/test_msgs/msg/detail/strings__functions.c:403:1:test_msgs__msg__Strings__Sequence__init	48	static
+../Core/M4lib/include/test_msgs/msg/detail/strings__functions.c:440:1:test_msgs__msg__Strings__Sequence__fini	40	static
+../Core/M4lib/include/test_msgs/msg/detail/strings__functions.c:466:1:test_msgs__msg__Strings__Sequence__create	48	static
+../Core/M4lib/include/test_msgs/msg/detail/strings__functions.c:482:1:test_msgs__msg__Strings__Sequence__destroy	40	static
+../Core/M4lib/include/test_msgs/msg/detail/strings__functions.c:492:1:test_msgs__msg__Strings__Sequence__are_equal	24	static
+../Core/M4lib/include/test_msgs/msg/detail/strings__functions.c:509:1:test_msgs__msg__Strings__Sequence__copy	56	static

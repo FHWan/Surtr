@@ -1,0 +1,12 @@
+../Core/M4lib/include/sensor_msgs/msg/detail/camera_info__functions.c:25:1:sensor_msgs__msg__CameraInfo__init	6
+../Core/M4lib/include/sensor_msgs/msg/detail/camera_info__functions.c:61:1:sensor_msgs__msg__CameraInfo__fini	2
+../Core/M4lib/include/sensor_msgs/msg/detail/camera_info__functions.c:84:1:sensor_msgs__msg__CameraInfo__are_equal	17
+../Core/M4lib/include/sensor_msgs/msg/detail/camera_info__functions.c:151:1:sensor_msgs__msg__CameraInfo__copy	10
+../Core/M4lib/include/sensor_msgs/msg/detail/camera_info__functions.c:206:1:sensor_msgs__msg__CameraInfo__create	3
+../Core/M4lib/include/sensor_msgs/msg/detail/camera_info__functions.c:223:1:sensor_msgs__msg__CameraInfo__destroy	2
+../Core/M4lib/include/sensor_msgs/msg/detail/camera_info__functions.c:234:1:sensor_msgs__msg__CameraInfo__Sequence__init	8
+../Core/M4lib/include/sensor_msgs/msg/detail/camera_info__functions.c:271:1:sensor_msgs__msg__CameraInfo__Sequence__fini	4
+../Core/M4lib/include/sensor_msgs/msg/detail/camera_info__functions.c:297:1:sensor_msgs__msg__CameraInfo__Sequence__create	3
+../Core/M4lib/include/sensor_msgs/msg/detail/camera_info__functions.c:313:1:sensor_msgs__msg__CameraInfo__Sequence__destroy	2
+../Core/M4lib/include/sensor_msgs/msg/detail/camera_info__functions.c:323:1:sensor_msgs__msg__CameraInfo__Sequence__are_equal	6
+../Core/M4lib/include/sensor_msgs/msg/detail/camera_info__functions.c:340:1:sensor_msgs__msg__CameraInfo__Sequence__copy	10

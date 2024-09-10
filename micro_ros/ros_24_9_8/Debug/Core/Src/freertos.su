@@ -1,0 +1,16 @@
+../Drivers/CMSIS/Include/core_cm4.h:1938:34:__NVIC_SystemReset	4	static,ignoring_inline_asm
+../Core/Src/freertos.c:170:1:__io_putchar	16	static
+../Core/Src/freertos.c:176:6:Uart6_SendStr	16	static
+../Core/Src/freertos.c:186:6:subscription_callback	24	static
+../Core/Src/freertos.c:193:6:subscription_callback_arm	24	static
+../Core/Src/freertos.c:200:6:subscription_callback_cmd	48	static
+../Core/Src/freertos.c:229:6:MX_FREERTOS_Init	8	static
+../Core/Src/freertos.c:277:6:StartDefaultTask	160	static
+../Core/Src/freertos.c:319:6:StartImuTask	16	static
+../Core/Src/freertos.c:346:6:StartMotorTask	16	static
+../Core/Src/freertos.c:381:6:micro_ros_init	72	static
+../Core/Src/freertos.c:410:6:hx_ros_init	32	static
+../Core/Src/freertos.c:435:6:imu_ros_init	8	static
+../Core/Src/freertos.c:448:6:arm_ros_init	32	static
+../Core/Src/freertos.c:470:6:cmd_get_init	32	static
+../Core/Src/freertos.c:486:7:pid_compute	40	static

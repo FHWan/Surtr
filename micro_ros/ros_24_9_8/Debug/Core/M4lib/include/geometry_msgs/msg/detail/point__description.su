@@ -1,0 +1,4 @@
+../Core/M4lib/include/geometry_msgs/msg/detail/point__description.c:9:1:geometry_msgs__msg__Point__get_type_hash	16	static
+../Core/M4lib/include/geometry_msgs/msg/detail/point__description.c:72:1:geometry_msgs__msg__Point__get_type_description	16	static
+../Core/M4lib/include/geometry_msgs/msg/detail/point__description.c:101:1:geometry_msgs__msg__Point__get_individual_type_description_source	16	static
+../Core/M4lib/include/geometry_msgs/msg/detail/point__description.c:114:1:geometry_msgs__msg__Point__get_type_description_sources	24	static
