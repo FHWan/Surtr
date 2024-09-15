@@ -1,0 +1,12 @@
+../Core/M4lib/include/test_msgs/msg/detail/basic_types__functions.c:15:1:test_msgs__msg__BasicTypes__init	2
+../Core/M4lib/include/test_msgs/msg/detail/basic_types__functions.c:37:1:test_msgs__msg__BasicTypes__fini	1
+../Core/M4lib/include/test_msgs/msg/detail/basic_types__functions.c:58:1:test_msgs__msg__BasicTypes__are_equal	16
+../Core/M4lib/include/test_msgs/msg/detail/basic_types__functions.c:119:1:test_msgs__msg__BasicTypes__copy	3
+../Core/M4lib/include/test_msgs/msg/detail/basic_types__functions.c:156:1:test_msgs__msg__BasicTypes__create	3
+../Core/M4lib/include/test_msgs/msg/detail/basic_types__functions.c:173:1:test_msgs__msg__BasicTypes__destroy	2
+../Core/M4lib/include/test_msgs/msg/detail/basic_types__functions.c:184:1:test_msgs__msg__BasicTypes__Sequence__init	8
+../Core/M4lib/include/test_msgs/msg/detail/basic_types__functions.c:221:1:test_msgs__msg__BasicTypes__Sequence__fini	4
+../Core/M4lib/include/test_msgs/msg/detail/basic_types__functions.c:247:1:test_msgs__msg__BasicTypes__Sequence__create	3
+../Core/M4lib/include/test_msgs/msg/detail/basic_types__functions.c:263:1:test_msgs__msg__BasicTypes__Sequence__destroy	2
+../Core/M4lib/include/test_msgs/msg/detail/basic_types__functions.c:273:1:test_msgs__msg__BasicTypes__Sequence__are_equal	6
+../Core/M4lib/include/test_msgs/msg/detail/basic_types__functions.c:290:1:test_msgs__msg__BasicTypes__Sequence__copy	10

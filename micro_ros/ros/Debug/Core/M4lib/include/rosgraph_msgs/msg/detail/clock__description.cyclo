@@ -1,0 +1,4 @@
+../Core/M4lib/include/rosgraph_msgs/msg/detail/clock__description.c:9:1:rosgraph_msgs__msg__Clock__get_type_hash	1
+../Core/M4lib/include/rosgraph_msgs/msg/detail/clock__description.c:65:1:rosgraph_msgs__msg__Clock__get_type_description	2
+../Core/M4lib/include/rosgraph_msgs/msg/detail/clock__description.c:96:1:rosgraph_msgs__msg__Clock__get_individual_type_description_source	1
+../Core/M4lib/include/rosgraph_msgs/msg/detail/clock__description.c:109:1:rosgraph_msgs__msg__Clock__get_type_description_sources	2

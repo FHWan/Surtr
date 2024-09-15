@@ -1,0 +1,12 @@
+../Core/M4lib/include/diagnostic_msgs/msg/detail/diagnostic_status__functions.c:23:1:diagnostic_msgs__msg__DiagnosticStatus__init	6
+../Core/M4lib/include/diagnostic_msgs/msg/detail/diagnostic_status__functions.c:53:1:diagnostic_msgs__msg__DiagnosticStatus__fini	2
+../Core/M4lib/include/diagnostic_msgs/msg/detail/diagnostic_status__functions.c:70:1:diagnostic_msgs__msg__DiagnosticStatus__are_equal	8
+../Core/M4lib/include/diagnostic_msgs/msg/detail/diagnostic_status__functions.c:107:1:diagnostic_msgs__msg__DiagnosticStatus__copy	7
+../Core/M4lib/include/diagnostic_msgs/msg/detail/diagnostic_status__functions.c:144:1:diagnostic_msgs__msg__DiagnosticStatus__create	3
+../Core/M4lib/include/diagnostic_msgs/msg/detail/diagnostic_status__functions.c:161:1:diagnostic_msgs__msg__DiagnosticStatus__destroy	2
+../Core/M4lib/include/diagnostic_msgs/msg/detail/diagnostic_status__functions.c:172:1:diagnostic_msgs__msg__DiagnosticStatus__Sequence__init	8
+../Core/M4lib/include/diagnostic_msgs/msg/detail/diagnostic_status__functions.c:209:1:diagnostic_msgs__msg__DiagnosticStatus__Sequence__fini	4
+../Core/M4lib/include/diagnostic_msgs/msg/detail/diagnostic_status__functions.c:235:1:diagnostic_msgs__msg__DiagnosticStatus__Sequence__create	3
+../Core/M4lib/include/diagnostic_msgs/msg/detail/diagnostic_status__functions.c:251:1:diagnostic_msgs__msg__DiagnosticStatus__Sequence__destroy	2
+../Core/M4lib/include/diagnostic_msgs/msg/detail/diagnostic_status__functions.c:261:1:diagnostic_msgs__msg__DiagnosticStatus__Sequence__are_equal	6
+../Core/M4lib/include/diagnostic_msgs/msg/detail/diagnostic_status__functions.c:278:1:diagnostic_msgs__msg__DiagnosticStatus__Sequence__copy	10

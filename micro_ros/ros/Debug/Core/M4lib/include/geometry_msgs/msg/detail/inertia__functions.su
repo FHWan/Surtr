@@ -1,0 +1,12 @@
+../Core/M4lib/include/geometry_msgs/msg/detail/inertia__functions.c:19:1:geometry_msgs__msg__Inertia__init	16	static
+../Core/M4lib/include/geometry_msgs/msg/detail/inertia__functions.c:40:1:geometry_msgs__msg__Inertia__fini	16	static
+../Core/M4lib/include/geometry_msgs/msg/detail/inertia__functions.c:57:1:geometry_msgs__msg__Inertia__are_equal	16	static
+../Core/M4lib/include/geometry_msgs/msg/detail/inertia__functions.c:100:1:geometry_msgs__msg__Inertia__copy	16	static
+../Core/M4lib/include/geometry_msgs/msg/detail/inertia__functions.c:131:1:geometry_msgs__msg__Inertia__create	40	static
+../Core/M4lib/include/geometry_msgs/msg/detail/inertia__functions.c:148:1:geometry_msgs__msg__Inertia__destroy	40	static
+../Core/M4lib/include/geometry_msgs/msg/detail/inertia__functions.c:159:1:geometry_msgs__msg__Inertia__Sequence__init	48	static
+../Core/M4lib/include/geometry_msgs/msg/detail/inertia__functions.c:196:1:geometry_msgs__msg__Inertia__Sequence__fini	40	static
+../Core/M4lib/include/geometry_msgs/msg/detail/inertia__functions.c:222:1:geometry_msgs__msg__Inertia__Sequence__create	48	static
+../Core/M4lib/include/geometry_msgs/msg/detail/inertia__functions.c:238:1:geometry_msgs__msg__Inertia__Sequence__destroy	40	static
+../Core/M4lib/include/geometry_msgs/msg/detail/inertia__functions.c:248:1:geometry_msgs__msg__Inertia__Sequence__are_equal	24	static
+../Core/M4lib/include/geometry_msgs/msg/detail/inertia__functions.c:265:1:geometry_msgs__msg__Inertia__Sequence__copy	56	static

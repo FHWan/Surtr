@@ -1,0 +1,5 @@
+../Core/extra_sources/microros_transports/dma_transport.c:24:6:cubemx_transport_open	24	static
+../Core/extra_sources/microros_transports/dma_transport.c:30:6:cubemx_transport_close	24	static
+../Core/extra_sources/microros_transports/dma_transport.c:36:8:cubemx_transport_write	32	static
+../Core/extra_sources/microros_transports/dma_transport.c:52:8:cubemx_transport_read	40	static,ignoring_inline_asm
+../Core/extra_sources/microros_transports/dma_transport.c:75:6:HAL_UART_RxCpltCallback	16	static

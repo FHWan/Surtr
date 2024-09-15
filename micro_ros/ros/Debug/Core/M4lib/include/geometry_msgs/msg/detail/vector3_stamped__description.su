@@ -1,0 +1,4 @@
+../Core/M4lib/include/geometry_msgs/msg/detail/vector3_stamped__description.c:9:1:geometry_msgs__msg__Vector3Stamped__get_type_hash	16	static
+../Core/M4lib/include/geometry_msgs/msg/detail/vector3_stamped__description.c:100:1:geometry_msgs__msg__Vector3Stamped__get_type_description	16	static
+../Core/M4lib/include/geometry_msgs/msg/detail/vector3_stamped__description.c:138:1:geometry_msgs__msg__Vector3Stamped__get_individual_type_description_source	16	static
+../Core/M4lib/include/geometry_msgs/msg/detail/vector3_stamped__description.c:151:1:geometry_msgs__msg__Vector3Stamped__get_type_description_sources	24	static

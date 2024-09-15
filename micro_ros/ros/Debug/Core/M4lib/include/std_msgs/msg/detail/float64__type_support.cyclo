@@ -1,0 +1,3 @@
+../Core/M4lib/include/std_msgs/msg/detail/float64__type_support.c:20:6:std_msgs__msg__Float64__rosidl_typesupport_introspection_c__Float64_init_function	1
+../Core/M4lib/include/std_msgs/msg/detail/float64__type_support.c:29:6:std_msgs__msg__Float64__rosidl_typesupport_introspection_c__Float64_fini_function	1
+../Core/M4lib/include/std_msgs/msg/detail/float64__type_support.c:77:1:rosidl_typesupport_introspection_c__get_message_type_support_handle__std_msgs__msg__Float64	2

@@ -1,0 +1,4 @@
+../Core/extra_sources/microros_allocators.c:14:8:microros_allocate	16	static
+../Core/extra_sources/microros_allocators.c:22:6:microros_deallocate	16	static
+../Core/extra_sources/microros_allocators.c:31:8:microros_reallocate	24	static
+../Core/extra_sources/microros_allocators.c:44:8:microros_zero_allocate	24	static

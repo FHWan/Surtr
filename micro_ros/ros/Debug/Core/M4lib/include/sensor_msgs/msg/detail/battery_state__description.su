@@ -1,0 +1,4 @@
+../Core/M4lib/include/sensor_msgs/msg/detail/battery_state__description.c:9:1:sensor_msgs__msg__BatteryState__get_type_hash	16	static
+../Core/M4lib/include/sensor_msgs/msg/detail/battery_state__description.c:242:1:sensor_msgs__msg__BatteryState__get_type_description	16	static
+../Core/M4lib/include/sensor_msgs/msg/detail/battery_state__description.c:325:1:sensor_msgs__msg__BatteryState__get_individual_type_description_source	16	static
+../Core/M4lib/include/sensor_msgs/msg/detail/battery_state__description.c:338:1:sensor_msgs__msg__BatteryState__get_type_description_sources	24	static

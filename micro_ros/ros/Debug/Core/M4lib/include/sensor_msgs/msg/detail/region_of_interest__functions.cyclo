@@ -1,0 +1,12 @@
+../Core/M4lib/include/sensor_msgs/msg/detail/region_of_interest__functions.c:15:1:sensor_msgs__msg__RegionOfInterest__init	2
+../Core/M4lib/include/sensor_msgs/msg/detail/region_of_interest__functions.c:29:1:sensor_msgs__msg__RegionOfInterest__fini	1
+../Core/M4lib/include/sensor_msgs/msg/detail/region_of_interest__functions.c:42:1:sensor_msgs__msg__RegionOfInterest__are_equal	8
+../Core/M4lib/include/sensor_msgs/msg/detail/region_of_interest__functions.c:71:1:sensor_msgs__msg__RegionOfInterest__copy	3
+../Core/M4lib/include/sensor_msgs/msg/detail/region_of_interest__functions.c:92:1:sensor_msgs__msg__RegionOfInterest__create	3
+../Core/M4lib/include/sensor_msgs/msg/detail/region_of_interest__functions.c:109:1:sensor_msgs__msg__RegionOfInterest__destroy	2
+../Core/M4lib/include/sensor_msgs/msg/detail/region_of_interest__functions.c:120:1:sensor_msgs__msg__RegionOfInterest__Sequence__init	8
+../Core/M4lib/include/sensor_msgs/msg/detail/region_of_interest__functions.c:157:1:sensor_msgs__msg__RegionOfInterest__Sequence__fini	4
+../Core/M4lib/include/sensor_msgs/msg/detail/region_of_interest__functions.c:183:1:sensor_msgs__msg__RegionOfInterest__Sequence__create	3
+../Core/M4lib/include/sensor_msgs/msg/detail/region_of_interest__functions.c:199:1:sensor_msgs__msg__RegionOfInterest__Sequence__destroy	2
+../Core/M4lib/include/sensor_msgs/msg/detail/region_of_interest__functions.c:209:1:sensor_msgs__msg__RegionOfInterest__Sequence__are_equal	6
+../Core/M4lib/include/sensor_msgs/msg/detail/region_of_interest__functions.c:226:1:sensor_msgs__msg__RegionOfInterest__Sequence__copy	10

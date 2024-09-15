@@ -1,0 +1,3 @@
+../Core/M4lib/include/rosgraph_msgs/msg/detail/clock__type_support.c:26:6:rosgraph_msgs__msg__Clock__rosidl_typesupport_introspection_c__Clock_init_function	16	static
+../Core/M4lib/include/rosgraph_msgs/msg/detail/clock__type_support.c:35:6:rosgraph_msgs__msg__Clock__rosidl_typesupport_introspection_c__Clock_fini_function	16	static
+../Core/M4lib/include/rosgraph_msgs/msg/detail/clock__type_support.c:83:1:rosidl_typesupport_introspection_c__get_message_type_support_handle__rosgraph_msgs__msg__Clock	8	static

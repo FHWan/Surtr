@@ -1,0 +1,3 @@
+../Core/M4lib/include/test_msgs/msg/detail/strings__type_support.c:35:6:test_msgs__msg__Strings__rosidl_typesupport_introspection_c__Strings_init_function	1
+../Core/M4lib/include/test_msgs/msg/detail/strings__type_support.c:44:6:test_msgs__msg__Strings__rosidl_typesupport_introspection_c__Strings_fini_function	1
+../Core/M4lib/include/test_msgs/msg/detail/strings__type_support.c:279:1:rosidl_typesupport_introspection_c__get_message_type_support_handle__test_msgs__msg__Strings	2
