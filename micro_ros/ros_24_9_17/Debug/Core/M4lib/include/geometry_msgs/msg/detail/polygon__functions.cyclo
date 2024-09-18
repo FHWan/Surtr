@@ -1,0 +1,12 @@
+../Core/M4lib/include/geometry_msgs/msg/detail/polygon__functions.c:19:1:geometry_msgs__msg__Polygon__init	3
+../Core/M4lib/include/geometry_msgs/msg/detail/polygon__functions.c:33:1:geometry_msgs__msg__Polygon__fini	2
+../Core/M4lib/include/geometry_msgs/msg/detail/polygon__functions.c:43:1:geometry_msgs__msg__Polygon__are_equal	4
+../Core/M4lib/include/geometry_msgs/msg/detail/polygon__functions.c:58:1:geometry_msgs__msg__Polygon__copy	4
+../Core/M4lib/include/geometry_msgs/msg/detail/polygon__functions.c:75:1:geometry_msgs__msg__Polygon__create	3
+../Core/M4lib/include/geometry_msgs/msg/detail/polygon__functions.c:92:1:geometry_msgs__msg__Polygon__destroy	2
+../Core/M4lib/include/geometry_msgs/msg/detail/polygon__functions.c:103:1:geometry_msgs__msg__Polygon__Sequence__init	8
+../Core/M4lib/include/geometry_msgs/msg/detail/polygon__functions.c:140:1:geometry_msgs__msg__Polygon__Sequence__fini	4
+../Core/M4lib/include/geometry_msgs/msg/detail/polygon__functions.c:166:1:geometry_msgs__msg__Polygon__Sequence__create	3
+../Core/M4lib/include/geometry_msgs/msg/detail/polygon__functions.c:182:1:geometry_msgs__msg__Polygon__Sequence__destroy	2
+../Core/M4lib/include/geometry_msgs/msg/detail/polygon__functions.c:192:1:geometry_msgs__msg__Polygon__Sequence__are_equal	6
+../Core/M4lib/include/geometry_msgs/msg/detail/polygon__functions.c:209:1:geometry_msgs__msg__Polygon__Sequence__copy	10

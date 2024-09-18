@@ -1,0 +1,3 @@
+../Core/M4lib/include/visualization_msgs/msg/detail/menu_entry__type_support.c:25:6:visualization_msgs__msg__MenuEntry__rosidl_typesupport_introspection_c__MenuEntry_init_function	16	static
+../Core/M4lib/include/visualization_msgs/msg/detail/menu_entry__type_support.c:34:6:visualization_msgs__msg__MenuEntry__rosidl_typesupport_introspection_c__MenuEntry_fini_function	16	static
+../Core/M4lib/include/visualization_msgs/msg/detail/menu_entry__type_support.c:150:1:rosidl_typesupport_introspection_c__get_message_type_support_handle__visualization_msgs__msg__MenuEntry	4	static

@@ -1,0 +1,9 @@
+../Core/extra_sources/custom_memory_manager.c:397:13:prvInsertBlockIntoFreeList	8	static
+../Core/extra_sources/custom_memory_manager.c:78:7:pvPortMallocMicroROS	24	static,ignoring_inline_asm
+../Core/extra_sources/custom_memory_manager.c:228:6:vPortFreeMicroROS	8	static,ignoring_inline_asm
+../Core/extra_sources/custom_memory_manager.c:277:8:getBlockSize	0	static
+../Core/extra_sources/custom_memory_manager.c:292:7:pvPortReallocMicroROS	16	static
+../Core/extra_sources/custom_memory_manager.c:315:7:pvPortCallocMicroROS	16	static
+../Core/extra_sources/custom_memory_manager.c:331:8:xPortGetFreeHeapSizeMicroROS	0	static
+../Core/extra_sources/custom_memory_manager.c:337:8:xPortGetMinimumEverFreeHeapSizeMicroROS	0	static
+../Core/extra_sources/custom_memory_manager.c:343:6:vPortInitialiseBlocksMicroROS	0	static

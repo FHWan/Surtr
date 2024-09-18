@@ -1,0 +1,12 @@
+../Core/M4lib/include/statistics_msgs/msg/detail/statistic_data_point__functions.c:15:1:statistics_msgs__msg__StatisticDataPoint__init	16	static
+../Core/M4lib/include/statistics_msgs/msg/detail/statistic_data_point__functions.c:26:1:statistics_msgs__msg__StatisticDataPoint__fini	16	static
+../Core/M4lib/include/statistics_msgs/msg/detail/statistic_data_point__functions.c:36:1:statistics_msgs__msg__StatisticDataPoint__are_equal	16	static
+../Core/M4lib/include/statistics_msgs/msg/detail/statistic_data_point__functions.c:53:1:statistics_msgs__msg__StatisticDataPoint__copy	16	static
+../Core/M4lib/include/statistics_msgs/msg/detail/statistic_data_point__functions.c:68:1:statistics_msgs__msg__StatisticDataPoint__create	40	static
+../Core/M4lib/include/statistics_msgs/msg/detail/statistic_data_point__functions.c:85:1:statistics_msgs__msg__StatisticDataPoint__destroy	40	static
+../Core/M4lib/include/statistics_msgs/msg/detail/statistic_data_point__functions.c:96:1:statistics_msgs__msg__StatisticDataPoint__Sequence__init	48	static
+../Core/M4lib/include/statistics_msgs/msg/detail/statistic_data_point__functions.c:133:1:statistics_msgs__msg__StatisticDataPoint__Sequence__fini	40	static
+../Core/M4lib/include/statistics_msgs/msg/detail/statistic_data_point__functions.c:159:1:statistics_msgs__msg__StatisticDataPoint__Sequence__create	48	static
+../Core/M4lib/include/statistics_msgs/msg/detail/statistic_data_point__functions.c:175:1:statistics_msgs__msg__StatisticDataPoint__Sequence__destroy	40	static
+../Core/M4lib/include/statistics_msgs/msg/detail/statistic_data_point__functions.c:185:1:statistics_msgs__msg__StatisticDataPoint__Sequence__are_equal	24	static
+../Core/M4lib/include/statistics_msgs/msg/detail/statistic_data_point__functions.c:202:1:statistics_msgs__msg__StatisticDataPoint__Sequence__copy	56	static

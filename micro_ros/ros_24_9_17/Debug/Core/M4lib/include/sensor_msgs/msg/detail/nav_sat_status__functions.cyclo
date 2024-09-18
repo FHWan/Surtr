@@ -1,0 +1,12 @@
+../Core/M4lib/include/sensor_msgs/msg/detail/nav_sat_status__functions.c:15:1:sensor_msgs__msg__NavSatStatus__init	2
+../Core/M4lib/include/sensor_msgs/msg/detail/nav_sat_status__functions.c:26:1:sensor_msgs__msg__NavSatStatus__fini	1
+../Core/M4lib/include/sensor_msgs/msg/detail/nav_sat_status__functions.c:36:1:sensor_msgs__msg__NavSatStatus__are_equal	5
+../Core/M4lib/include/sensor_msgs/msg/detail/nav_sat_status__functions.c:53:1:sensor_msgs__msg__NavSatStatus__copy	3
+../Core/M4lib/include/sensor_msgs/msg/detail/nav_sat_status__functions.c:68:1:sensor_msgs__msg__NavSatStatus__create	3
+../Core/M4lib/include/sensor_msgs/msg/detail/nav_sat_status__functions.c:85:1:sensor_msgs__msg__NavSatStatus__destroy	2
+../Core/M4lib/include/sensor_msgs/msg/detail/nav_sat_status__functions.c:96:1:sensor_msgs__msg__NavSatStatus__Sequence__init	8
+../Core/M4lib/include/sensor_msgs/msg/detail/nav_sat_status__functions.c:133:1:sensor_msgs__msg__NavSatStatus__Sequence__fini	4
+../Core/M4lib/include/sensor_msgs/msg/detail/nav_sat_status__functions.c:159:1:sensor_msgs__msg__NavSatStatus__Sequence__create	3
+../Core/M4lib/include/sensor_msgs/msg/detail/nav_sat_status__functions.c:175:1:sensor_msgs__msg__NavSatStatus__Sequence__destroy	2
+../Core/M4lib/include/sensor_msgs/msg/detail/nav_sat_status__functions.c:185:1:sensor_msgs__msg__NavSatStatus__Sequence__are_equal	6
+../Core/M4lib/include/sensor_msgs/msg/detail/nav_sat_status__functions.c:202:1:sensor_msgs__msg__NavSatStatus__Sequence__copy	10

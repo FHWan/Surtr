@@ -1,0 +1,2 @@
+../Core/BSP/motor/motor.c:3:6:left_motor_control	5
+../Core/BSP/motor/motor.c:21:6:right_motor_control	5

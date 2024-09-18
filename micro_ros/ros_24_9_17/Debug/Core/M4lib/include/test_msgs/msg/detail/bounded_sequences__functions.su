@@ -1,0 +1,12 @@
+../Core/M4lib/include/test_msgs/msg/detail/bounded_sequences__functions.c:53:1:test_msgs__msg__BoundedSequences__init	40	static
+../Core/M4lib/include/test_msgs/msg/detail/bounded_sequences__functions.c:337:1:test_msgs__msg__BoundedSequences__fini	16	static
+../Core/M4lib/include/test_msgs/msg/detail/bounded_sequences__functions.c:408:1:test_msgs__msg__BoundedSequences__are_equal	16	static
+../Core/M4lib/include/test_msgs/msg/detail/bounded_sequences__functions.c:607:1:test_msgs__msg__BoundedSequences__copy	16	static
+../Core/M4lib/include/test_msgs/msg/detail/bounded_sequences__functions.c:806:1:test_msgs__msg__BoundedSequences__create	40	static
+../Core/M4lib/include/test_msgs/msg/detail/bounded_sequences__functions.c:823:1:test_msgs__msg__BoundedSequences__destroy	40	static
+../Core/M4lib/include/test_msgs/msg/detail/bounded_sequences__functions.c:834:1:test_msgs__msg__BoundedSequences__Sequence__init	48	static
+../Core/M4lib/include/test_msgs/msg/detail/bounded_sequences__functions.c:871:1:test_msgs__msg__BoundedSequences__Sequence__fini	40	static
+../Core/M4lib/include/test_msgs/msg/detail/bounded_sequences__functions.c:897:1:test_msgs__msg__BoundedSequences__Sequence__create	48	static
+../Core/M4lib/include/test_msgs/msg/detail/bounded_sequences__functions.c:913:1:test_msgs__msg__BoundedSequences__Sequence__destroy	40	static
+../Core/M4lib/include/test_msgs/msg/detail/bounded_sequences__functions.c:923:1:test_msgs__msg__BoundedSequences__Sequence__are_equal	24	static
+../Core/M4lib/include/test_msgs/msg/detail/bounded_sequences__functions.c:940:1:test_msgs__msg__BoundedSequences__Sequence__copy	56	static

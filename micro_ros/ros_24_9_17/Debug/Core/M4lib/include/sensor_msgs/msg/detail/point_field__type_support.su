@@ -1,0 +1,3 @@
+../Core/M4lib/include/sensor_msgs/msg/detail/point_field__type_support.c:24:6:sensor_msgs__msg__PointField__rosidl_typesupport_introspection_c__PointField_init_function	16	static
+../Core/M4lib/include/sensor_msgs/msg/detail/point_field__type_support.c:33:6:sensor_msgs__msg__PointField__rosidl_typesupport_introspection_c__PointField_fini_function	16	static
+../Core/M4lib/include/sensor_msgs/msg/detail/point_field__type_support.c:132:1:rosidl_typesupport_introspection_c__get_message_type_support_handle__sensor_msgs__msg__PointField	4	static

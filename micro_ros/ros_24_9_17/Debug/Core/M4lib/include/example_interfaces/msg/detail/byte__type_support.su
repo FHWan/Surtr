@@ -1,0 +1,3 @@
+../Core/M4lib/include/example_interfaces/msg/detail/byte__type_support.c:20:6:example_interfaces__msg__Byte__rosidl_typesupport_introspection_c__Byte_init_function	16	static
+../Core/M4lib/include/example_interfaces/msg/detail/byte__type_support.c:29:6:example_interfaces__msg__Byte__rosidl_typesupport_introspection_c__Byte_fini_function	16	static
+../Core/M4lib/include/example_interfaces/msg/detail/byte__type_support.c:77:1:rosidl_typesupport_introspection_c__get_message_type_support_handle__example_interfaces__msg__Byte	4	static

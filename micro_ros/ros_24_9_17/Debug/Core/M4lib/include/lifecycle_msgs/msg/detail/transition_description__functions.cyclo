@@ -1,0 +1,12 @@
+../Core/M4lib/include/lifecycle_msgs/msg/detail/transition_description__functions.c:22:1:lifecycle_msgs__msg__TransitionDescription__init	5
+../Core/M4lib/include/lifecycle_msgs/msg/detail/transition_description__functions.c:46:1:lifecycle_msgs__msg__TransitionDescription__fini	2
+../Core/M4lib/include/lifecycle_msgs/msg/detail/transition_description__functions.c:60:1:lifecycle_msgs__msg__TransitionDescription__are_equal	6
+../Core/M4lib/include/lifecycle_msgs/msg/detail/transition_description__functions.c:87:1:lifecycle_msgs__msg__TransitionDescription__copy	6
+../Core/M4lib/include/lifecycle_msgs/msg/detail/transition_description__functions.c:116:1:lifecycle_msgs__msg__TransitionDescription__create	3
+../Core/M4lib/include/lifecycle_msgs/msg/detail/transition_description__functions.c:133:1:lifecycle_msgs__msg__TransitionDescription__destroy	2
+../Core/M4lib/include/lifecycle_msgs/msg/detail/transition_description__functions.c:144:1:lifecycle_msgs__msg__TransitionDescription__Sequence__init	8
+../Core/M4lib/include/lifecycle_msgs/msg/detail/transition_description__functions.c:181:1:lifecycle_msgs__msg__TransitionDescription__Sequence__fini	4
+../Core/M4lib/include/lifecycle_msgs/msg/detail/transition_description__functions.c:207:1:lifecycle_msgs__msg__TransitionDescription__Sequence__create	3
+../Core/M4lib/include/lifecycle_msgs/msg/detail/transition_description__functions.c:223:1:lifecycle_msgs__msg__TransitionDescription__Sequence__destroy	2
+../Core/M4lib/include/lifecycle_msgs/msg/detail/transition_description__functions.c:233:1:lifecycle_msgs__msg__TransitionDescription__Sequence__are_equal	6
+../Core/M4lib/include/lifecycle_msgs/msg/detail/transition_description__functions.c:250:1:lifecycle_msgs__msg__TransitionDescription__Sequence__copy	10

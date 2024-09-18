@@ -1,0 +1,8 @@
+../Core/BSP/Comm/comm.c:10:7:KDCOM_Check	1
+../Core/BSP/Comm/comm.c:15:7:KDCOM_GetCmd	1
+../Core/BSP/Comm/comm.c:20:7:KDCOM_GetCmdPara	3
+../Core/BSP/Comm/comm.c:27:7:KDCOM_GetCmdData	1
+../Core/BSP/Comm/comm.c:32:7:KDCOM_GetData	3
+../Core/BSP/Comm/comm.c:39:8:KDCOM_SetCmd	1
+../Core/BSP/Comm/comm.c:51:8:KDCOM_SetData	1
+../Core/BSP/Comm/comm.c:64:7:KDCOM_Process	18
