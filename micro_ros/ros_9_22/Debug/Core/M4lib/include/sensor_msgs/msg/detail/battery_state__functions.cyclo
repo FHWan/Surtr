@@ -1,0 +1,12 @@
+../Core/M4lib/include/sensor_msgs/msg/detail/battery_state__functions.c:25:1:sensor_msgs__msg__BatteryState__init	7
+../Core/M4lib/include/sensor_msgs/msg/detail/battery_state__functions.c:70:1:sensor_msgs__msg__BatteryState__fini	2
+../Core/M4lib/include/sensor_msgs/msg/detail/battery_state__functions.c:99:1:sensor_msgs__msg__BatteryState__are_equal	19
+../Core/M4lib/include/sensor_msgs/msg/detail/battery_state__functions.c:182:1:sensor_msgs__msg__BatteryState__copy	8
+../Core/M4lib/include/sensor_msgs/msg/detail/battery_state__functions.c:245:1:sensor_msgs__msg__BatteryState__create	3
+../Core/M4lib/include/sensor_msgs/msg/detail/battery_state__functions.c:262:1:sensor_msgs__msg__BatteryState__destroy	2
+../Core/M4lib/include/sensor_msgs/msg/detail/battery_state__functions.c:273:1:sensor_msgs__msg__BatteryState__Sequence__init	8
+../Core/M4lib/include/sensor_msgs/msg/detail/battery_state__functions.c:310:1:sensor_msgs__msg__BatteryState__Sequence__fini	4
+../Core/M4lib/include/sensor_msgs/msg/detail/battery_state__functions.c:336:1:sensor_msgs__msg__BatteryState__Sequence__create	3
+../Core/M4lib/include/sensor_msgs/msg/detail/battery_state__functions.c:352:1:sensor_msgs__msg__BatteryState__Sequence__destroy	2
+../Core/M4lib/include/sensor_msgs/msg/detail/battery_state__functions.c:362:1:sensor_msgs__msg__BatteryState__Sequence__are_equal	6
+../Core/M4lib/include/sensor_msgs/msg/detail/battery_state__functions.c:379:1:sensor_msgs__msg__BatteryState__Sequence__copy	10

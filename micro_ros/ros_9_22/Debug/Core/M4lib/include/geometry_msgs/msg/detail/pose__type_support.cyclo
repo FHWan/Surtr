@@ -1,0 +1,3 @@
+../Core/M4lib/include/geometry_msgs/msg/detail/pose__type_support.c:30:6:geometry_msgs__msg__Pose__rosidl_typesupport_introspection_c__Pose_init_function	1
+../Core/M4lib/include/geometry_msgs/msg/detail/pose__type_support.c:39:6:geometry_msgs__msg__Pose__rosidl_typesupport_introspection_c__Pose_fini_function	1
+../Core/M4lib/include/geometry_msgs/msg/detail/pose__type_support.c:104:1:rosidl_typesupport_introspection_c__get_message_type_support_handle__geometry_msgs__msg__Pose	2

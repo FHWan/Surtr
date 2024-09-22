@@ -1,0 +1,12 @@
+../Core/M4lib/include/trajectory_msgs/msg/detail/multi_dof_joint_trajectory_point__functions.c:24:1:trajectory_msgs__msg__MultiDOFJointTrajectoryPoint__init	16	static
+../Core/M4lib/include/trajectory_msgs/msg/detail/multi_dof_joint_trajectory_point__functions.c:53:1:trajectory_msgs__msg__MultiDOFJointTrajectoryPoint__fini	16	static
+../Core/M4lib/include/trajectory_msgs/msg/detail/multi_dof_joint_trajectory_point__functions.c:69:1:trajectory_msgs__msg__MultiDOFJointTrajectoryPoint__are_equal	16	static
+../Core/M4lib/include/trajectory_msgs/msg/detail/multi_dof_joint_trajectory_point__functions.c:102:1:trajectory_msgs__msg__MultiDOFJointTrajectoryPoint__copy	16	static
+../Core/M4lib/include/trajectory_msgs/msg/detail/multi_dof_joint_trajectory_point__functions.c:137:1:trajectory_msgs__msg__MultiDOFJointTrajectoryPoint__create	40	static
+../Core/M4lib/include/trajectory_msgs/msg/detail/multi_dof_joint_trajectory_point__functions.c:154:1:trajectory_msgs__msg__MultiDOFJointTrajectoryPoint__destroy	40	static
+../Core/M4lib/include/trajectory_msgs/msg/detail/multi_dof_joint_trajectory_point__functions.c:165:1:trajectory_msgs__msg__MultiDOFJointTrajectoryPoint__Sequence__init	48	static
+../Core/M4lib/include/trajectory_msgs/msg/detail/multi_dof_joint_trajectory_point__functions.c:202:1:trajectory_msgs__msg__MultiDOFJointTrajectoryPoint__Sequence__fini	40	static
+../Core/M4lib/include/trajectory_msgs/msg/detail/multi_dof_joint_trajectory_point__functions.c:228:1:trajectory_msgs__msg__MultiDOFJointTrajectoryPoint__Sequence__create	48	static
+../Core/M4lib/include/trajectory_msgs/msg/detail/multi_dof_joint_trajectory_point__functions.c:244:1:trajectory_msgs__msg__MultiDOFJointTrajectoryPoint__Sequence__destroy	40	static
+../Core/M4lib/include/trajectory_msgs/msg/detail/multi_dof_joint_trajectory_point__functions.c:254:1:trajectory_msgs__msg__MultiDOFJointTrajectoryPoint__Sequence__are_equal	24	static
+../Core/M4lib/include/trajectory_msgs/msg/detail/multi_dof_joint_trajectory_point__functions.c:271:1:trajectory_msgs__msg__MultiDOFJointTrajectoryPoint__Sequence__copy	56	static

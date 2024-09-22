@@ -1,0 +1,4 @@
+../Core/BSP/Kinematics/Kinematics.c:18:6:Euler2Quaternion	1
+../Core/BSP/Kinematics/Kinematics.c:36:6:update_bot_odom	1
+../Core/BSP/Kinematics/Kinematics.c:58:7:TransAngleInPI	3
+../Core/BSP/Kinematics/Kinematics.c:71:9:get_odom	1

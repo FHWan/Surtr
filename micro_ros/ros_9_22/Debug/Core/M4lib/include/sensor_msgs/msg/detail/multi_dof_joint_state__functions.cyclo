@@ -1,0 +1,12 @@
+../Core/M4lib/include/sensor_msgs/msg/detail/multi_dof_joint_state__functions.c:27:1:sensor_msgs__msg__MultiDOFJointState__init	7
+../Core/M4lib/include/sensor_msgs/msg/detail/multi_dof_joint_state__functions.c:61:1:sensor_msgs__msg__MultiDOFJointState__fini	2
+../Core/M4lib/include/sensor_msgs/msg/detail/multi_dof_joint_state__functions.c:79:1:sensor_msgs__msg__MultiDOFJointState__are_equal	8
+../Core/M4lib/include/sensor_msgs/msg/detail/multi_dof_joint_state__functions.c:118:1:sensor_msgs__msg__MultiDOFJointState__copy	8
+../Core/M4lib/include/sensor_msgs/msg/detail/multi_dof_joint_state__functions.c:159:1:sensor_msgs__msg__MultiDOFJointState__create	3
+../Core/M4lib/include/sensor_msgs/msg/detail/multi_dof_joint_state__functions.c:176:1:sensor_msgs__msg__MultiDOFJointState__destroy	2
+../Core/M4lib/include/sensor_msgs/msg/detail/multi_dof_joint_state__functions.c:187:1:sensor_msgs__msg__MultiDOFJointState__Sequence__init	8
+../Core/M4lib/include/sensor_msgs/msg/detail/multi_dof_joint_state__functions.c:224:1:sensor_msgs__msg__MultiDOFJointState__Sequence__fini	4
+../Core/M4lib/include/sensor_msgs/msg/detail/multi_dof_joint_state__functions.c:250:1:sensor_msgs__msg__MultiDOFJointState__Sequence__create	3
+../Core/M4lib/include/sensor_msgs/msg/detail/multi_dof_joint_state__functions.c:266:1:sensor_msgs__msg__MultiDOFJointState__Sequence__destroy	2
+../Core/M4lib/include/sensor_msgs/msg/detail/multi_dof_joint_state__functions.c:276:1:sensor_msgs__msg__MultiDOFJointState__Sequence__are_equal	6
+../Core/M4lib/include/sensor_msgs/msg/detail/multi_dof_joint_state__functions.c:293:1:sensor_msgs__msg__MultiDOFJointState__Sequence__copy	10

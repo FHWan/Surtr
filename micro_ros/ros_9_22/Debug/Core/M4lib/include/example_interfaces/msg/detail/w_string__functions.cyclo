@@ -1,0 +1,12 @@
+../Core/M4lib/include/example_interfaces/msg/detail/w_string__functions.c:19:1:example_interfaces__msg__WString__init	3
+../Core/M4lib/include/example_interfaces/msg/detail/w_string__functions.c:33:1:example_interfaces__msg__WString__fini	2
+../Core/M4lib/include/example_interfaces/msg/detail/w_string__functions.c:43:1:example_interfaces__msg__WString__are_equal	4
+../Core/M4lib/include/example_interfaces/msg/detail/w_string__functions.c:58:1:example_interfaces__msg__WString__copy	4
+../Core/M4lib/include/example_interfaces/msg/detail/w_string__functions.c:75:1:example_interfaces__msg__WString__create	3
+../Core/M4lib/include/example_interfaces/msg/detail/w_string__functions.c:92:1:example_interfaces__msg__WString__destroy	2
+../Core/M4lib/include/example_interfaces/msg/detail/w_string__functions.c:103:1:example_interfaces__msg__WString__Sequence__init	8
+../Core/M4lib/include/example_interfaces/msg/detail/w_string__functions.c:140:1:example_interfaces__msg__WString__Sequence__fini	4
+../Core/M4lib/include/example_interfaces/msg/detail/w_string__functions.c:166:1:example_interfaces__msg__WString__Sequence__create	3
+../Core/M4lib/include/example_interfaces/msg/detail/w_string__functions.c:182:1:example_interfaces__msg__WString__Sequence__destroy	2
+../Core/M4lib/include/example_interfaces/msg/detail/w_string__functions.c:192:1:example_interfaces__msg__WString__Sequence__are_equal	6
+../Core/M4lib/include/example_interfaces/msg/detail/w_string__functions.c:209:1:example_interfaces__msg__WString__Sequence__copy	10

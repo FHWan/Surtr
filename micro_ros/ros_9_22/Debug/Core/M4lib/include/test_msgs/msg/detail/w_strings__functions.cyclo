@@ -1,0 +1,12 @@
+../Core/M4lib/include/test_msgs/msg/detail/w_strings__functions.c:26:1:test_msgs__msg__WStrings__init	13
+../Core/M4lib/include/test_msgs/msg/detail/w_strings__functions.c:96:1:test_msgs__msg__WStrings__fini	3
+../Core/M4lib/include/test_msgs/msg/detail/w_strings__functions.c:120:1:test_msgs__msg__WStrings__are_equal	11
+../Core/M4lib/include/test_msgs/msg/detail/w_strings__functions.c:173:1:test_msgs__msg__WStrings__copy	11
+../Core/M4lib/include/test_msgs/msg/detail/w_strings__functions.c:228:1:test_msgs__msg__WStrings__create	3
+../Core/M4lib/include/test_msgs/msg/detail/w_strings__functions.c:245:1:test_msgs__msg__WStrings__destroy	2
+../Core/M4lib/include/test_msgs/msg/detail/w_strings__functions.c:256:1:test_msgs__msg__WStrings__Sequence__init	8
+../Core/M4lib/include/test_msgs/msg/detail/w_strings__functions.c:293:1:test_msgs__msg__WStrings__Sequence__fini	4
+../Core/M4lib/include/test_msgs/msg/detail/w_strings__functions.c:319:1:test_msgs__msg__WStrings__Sequence__create	3
+../Core/M4lib/include/test_msgs/msg/detail/w_strings__functions.c:335:1:test_msgs__msg__WStrings__Sequence__destroy	2
+../Core/M4lib/include/test_msgs/msg/detail/w_strings__functions.c:345:1:test_msgs__msg__WStrings__Sequence__are_equal	6
+../Core/M4lib/include/test_msgs/msg/detail/w_strings__functions.c:362:1:test_msgs__msg__WStrings__Sequence__copy	10

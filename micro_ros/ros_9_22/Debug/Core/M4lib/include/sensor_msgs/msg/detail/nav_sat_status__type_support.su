@@ -1,0 +1,3 @@
+../Core/M4lib/include/sensor_msgs/msg/detail/nav_sat_status__type_support.c:20:6:sensor_msgs__msg__NavSatStatus__rosidl_typesupport_introspection_c__NavSatStatus_init_function	16	static
+../Core/M4lib/include/sensor_msgs/msg/detail/nav_sat_status__type_support.c:29:6:sensor_msgs__msg__NavSatStatus__rosidl_typesupport_introspection_c__NavSatStatus_fini_function	16	static
+../Core/M4lib/include/sensor_msgs/msg/detail/nav_sat_status__type_support.c:94:1:rosidl_typesupport_introspection_c__get_message_type_support_handle__sensor_msgs__msg__NavSatStatus	4	static

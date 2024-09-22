@@ -1,0 +1,4 @@
+../Core/M4lib/include/std_msgs/msg/detail/string__description.c:9:1:std_msgs__msg__String__get_type_hash	16	static
+../Core/M4lib/include/std_msgs/msg/detail/string__description.c:50:1:std_msgs__msg__String__get_type_description	16	static
+../Core/M4lib/include/std_msgs/msg/detail/string__description.c:81:1:std_msgs__msg__String__get_individual_type_description_source	16	static
+../Core/M4lib/include/std_msgs/msg/detail/string__description.c:94:1:std_msgs__msg__String__get_type_description_sources	24	static

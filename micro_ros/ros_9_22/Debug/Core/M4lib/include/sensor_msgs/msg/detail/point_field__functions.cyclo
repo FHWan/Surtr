@@ -1,0 +1,12 @@
+../Core/M4lib/include/sensor_msgs/msg/detail/point_field__functions.c:19:1:sensor_msgs__msg__PointField__init	3
+../Core/M4lib/include/sensor_msgs/msg/detail/point_field__functions.c:36:1:sensor_msgs__msg__PointField__fini	2
+../Core/M4lib/include/sensor_msgs/msg/detail/point_field__functions.c:49:1:sensor_msgs__msg__PointField__are_equal	7
+../Core/M4lib/include/sensor_msgs/msg/detail/point_field__functions.c:76:1:sensor_msgs__msg__PointField__copy	4
+../Core/M4lib/include/sensor_msgs/msg/detail/point_field__functions.c:99:1:sensor_msgs__msg__PointField__create	3
+../Core/M4lib/include/sensor_msgs/msg/detail/point_field__functions.c:116:1:sensor_msgs__msg__PointField__destroy	2
+../Core/M4lib/include/sensor_msgs/msg/detail/point_field__functions.c:127:1:sensor_msgs__msg__PointField__Sequence__init	8
+../Core/M4lib/include/sensor_msgs/msg/detail/point_field__functions.c:164:1:sensor_msgs__msg__PointField__Sequence__fini	4
+../Core/M4lib/include/sensor_msgs/msg/detail/point_field__functions.c:190:1:sensor_msgs__msg__PointField__Sequence__create	3
+../Core/M4lib/include/sensor_msgs/msg/detail/point_field__functions.c:206:1:sensor_msgs__msg__PointField__Sequence__destroy	2
+../Core/M4lib/include/sensor_msgs/msg/detail/point_field__functions.c:216:1:sensor_msgs__msg__PointField__Sequence__are_equal	6
+../Core/M4lib/include/sensor_msgs/msg/detail/point_field__functions.c:233:1:sensor_msgs__msg__PointField__Sequence__copy	10

@@ -1,0 +1,8 @@
+../Core/BSP/Comm/comm.c:10:7:KDCOM_Check	16	static
+../Core/BSP/Comm/comm.c:15:7:KDCOM_GetCmd	16	static
+../Core/BSP/Comm/comm.c:20:7:KDCOM_GetCmdPara	16	static
+../Core/BSP/Comm/comm.c:27:7:KDCOM_GetCmdData	16	static
+../Core/BSP/Comm/comm.c:32:7:KDCOM_GetData	16	static
+../Core/BSP/Comm/comm.c:39:8:KDCOM_SetCmd	24	static
+../Core/BSP/Comm/comm.c:51:8:KDCOM_SetData	24	static
+../Core/BSP/Comm/comm.c:64:7:KDCOM_Process	104	static

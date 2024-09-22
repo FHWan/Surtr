@@ -1,0 +1,4 @@
+../Core/M4lib/include/builtin_interfaces/msg/detail/duration__description.c:9:1:builtin_interfaces__msg__Duration__get_type_hash	16	static
+../Core/M4lib/include/builtin_interfaces/msg/detail/duration__description.c:61:1:builtin_interfaces__msg__Duration__get_type_description	16	static
+../Core/M4lib/include/builtin_interfaces/msg/detail/duration__description.c:95:1:builtin_interfaces__msg__Duration__get_individual_type_description_source	16	static
+../Core/M4lib/include/builtin_interfaces/msg/detail/duration__description.c:108:1:builtin_interfaces__msg__Duration__get_type_description_sources	24	static

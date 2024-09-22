@@ -1,0 +1,4 @@
+../Core/M4lib/include/trajectory_msgs/msg/detail/multi_dof_joint_trajectory_point__description.c:9:1:trajectory_msgs__msg__MultiDOFJointTrajectoryPoint__get_type_hash	1
+../Core/M4lib/include/trajectory_msgs/msg/detail/multi_dof_joint_trajectory_point__description.c:146:1:trajectory_msgs__msg__MultiDOFJointTrajectoryPoint__get_type_description	2
+../Core/M4lib/include/trajectory_msgs/msg/detail/multi_dof_joint_trajectory_point__description.c:192:1:trajectory_msgs__msg__MultiDOFJointTrajectoryPoint__get_individual_type_description_source	1
+../Core/M4lib/include/trajectory_msgs/msg/detail/multi_dof_joint_trajectory_point__description.c:205:1:trajectory_msgs__msg__MultiDOFJointTrajectoryPoint__get_type_description_sources	2
